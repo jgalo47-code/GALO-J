@@ -1,0 +1,121 @@
+{
+  "model_version": "midterm-decision-tree-v1",
+  "trained_at": "2026-10-26T02:55:49",
+  "sklearn_version": "1.8.0",
+  "train_rows": 320,
+  "test_rows": 80,
+  "accuracy": 0.4125,
+  "precision": 0.48449088623507236,
+  "recall": 0.4125,
+  "f1": 0.4299968147794234,
+  "majority_baseline": 0.675,
+  "labels": [
+    "Completed",
+    "Not Completed"
+  ],
+  "confusion_matrix": [
+    [
+      22,
+      32
+    ],
+    [
+      15,
+      11
+    ]
+  ],
+  "report": {
+    "Completed": {
+      "precision": 0.5945945945945946,
+      "recall": 0.4074074074074074,
+      "f1-score": 0.4835164835164835,
+      "support": 54.0
+    },
+    "Not Completed": {
+      "precision": 0.2558139534883721,
+      "recall": 0.4230769230769231,
+      "f1-score": 0.3188405797101449,
+      "support": 26.0
+    },
+    "accuracy": 0.4125,
+    "macro avg": {
+      "precision": 0.42520427404148337,
+      "recall": 0.41524216524216523,
+      "f1-score": 0.4011785316133142,
+      "support": 80.0
+    },
+    "weighted avg": {
+      "precision": 0.48449088623507236,
+      "recall": 0.4125,
+      "f1-score": 0.4299968147794234,
+      "support": 80.0
+    }
+  },
+  "feature_importance": [
+    {
+      "feature": "numeric__Participants",
+      "importance": 0.4873585848240142
+    },
+    {
+      "feature": "categorical__Purpose_Training",
+      "importance": 0.1927480252738231
+    },
+    {
+      "feature": "categorical__User_Type_Organization",
+      "importance": 0.08085803070568394
+    },
+    {
+      "feature": "categorical__Purpose_Seminar",
+      "importance": 0.07957316525927273
+    },
+    {
+      "feature": "categorical__User_Type_Student",
+      "importance": 0.05178378132476123
+    },
+    {
+      "feature": "categorical__User_Type_Faculty",
+      "importance": 0.030241278267141822
+    },
+    {
+      "feature": "categorical__Facility_Type_Conference Room",
+      "importance": 0.028121128539369808
+    },
+    {
+      "feature": "categorical__Purpose_Class",
+      "importance": 0.026773590124640628
+    },
+    {
+      "feature": "categorical__Facility_Type_Multimedia Room",
+      "importance": 0.0225424156812917
+    },
+    {
+      "feature": "categorical__Facility_Type_Laboratory",
+      "importance": 9.494110753020998e-16
+    }
+  ],
+  "categories": {
+    "Facility_Type": [
+      "Auditorium",
+      "Classroom",
+      "Conference Room",
+      "Laboratory",
+      "Multimedia Room"
+    ],
+    "User_Type": [
+      "Faculty",
+      "Organization",
+      "Staff",
+      "Student"
+    ],
+    "Purpose": [
+      "Class",
+      "Event",
+      "Meeting",
+      "Seminar",
+      "Training"
+    ]
+  },
+  "participants_range": [
+    5.0,
+    100.0
+  ]
+}

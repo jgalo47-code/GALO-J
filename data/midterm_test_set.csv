@@ -1,0 +1,81 @@
+Reservation_ID,Facility_Type,User_Type,Purpose,Participants,Reservation_Outcome
+Res-0048,Classroom,Student,Training,76.0,Not Completed
+Res-0002,Classroom,Student,Class,30.0,Completed
+Res-0200,Multimedia Room,Staff,Class,43.0,Completed
+Res-0069,Conference Room,Faculty,Meeting,99.0,Completed
+Res-0226,Multimedia Room,Student,Seminar,10.0,Completed
+Res-0382,Conference Room,Student,Seminar,18.0,Completed
+Res-0239,Auditorium,Student,Seminar,14.0,Not Completed
+Res-0052,Multimedia Room,Student,Training,31.0,Completed
+Res-0191,Auditorium,Staff,Training,48.0,Completed
+Res-0348,Multimedia Room,Organization,Training,64.0,Completed
+Res-0189,Laboratory,Staff,Class,61.0,Completed
+Res-0383,Classroom,Staff,Seminar,55.0,Not Completed
+Res-0173,Conference Room,Faculty,Event,86.0,Not Completed
+Res-0077,Classroom,Staff,Class,19.0,Completed
+Res-0133,Laboratory,Organization,Seminar,70.0,Not Completed
+Res-0062,Classroom,Organization,Event,67.0,Not Completed
+Res-0258,Auditorium,Faculty,Class,34.0,Completed
+Res-0334,Auditorium,Staff,Training,15.0,Not Completed
+Res-0355,Multimedia Room,Student,Meeting,29.0,Not Completed
+Res-0329,Conference Room,Organization,Seminar,75.0,Completed
+Res-0118,Multimedia Room,Organization,Event,88.0,Not Completed
+Res-0083,Auditorium,Staff,Meeting,11.0,Completed
+Res-0126,Classroom,Student,Class,15.0,Completed
+Res-0284,Classroom,Organization,Seminar,55.0,Completed
+Res-0335,Classroom,Faculty,Training,29.0,Completed
+Res-0101,Auditorium,Student,Training,50.0,Completed
+Res-0366,Multimedia Room,Faculty,Meeting,19.0,Completed
+Res-0067,Multimedia Room,Staff,Training,56.0,Completed
+Res-0368,Conference Room,Staff,Class,78.0,Completed
+Res-0071,Auditorium,Student,Seminar,6.0,Completed
+Res-0317,Multimedia Room,Faculty,Event,12.0,Completed
+Res-0374,Multimedia Room,Faculty,Training,13.0,Completed
+Res-0092,Auditorium,Student,Training,88.0,Not Completed
+Res-0177,Conference Room,Staff,Training,58.0,Completed
+Res-0020,Laboratory,Staff,Training,89.0,Completed
+Res-0386,Auditorium,Faculty,Class,89.0,Not Completed
+Res-0291,Classroom,Faculty,Meeting,49.0,Not Completed
+Res-0354,Conference Room,Faculty,Meeting,47.0,Completed
+Res-0192,Auditorium,Organization,Training,43.0,Not Completed
+Res-0073,Laboratory,Student,Class,20.0,Completed
+Res-0195,Classroom,Organization,Seminar,88.0,Completed
+Res-0347,Classroom,Student,Training,6.0,Completed
+Res-0336,Laboratory,Staff,Class,13.0,Completed
+Res-0289,Auditorium,Faculty,Seminar,94.0,Not Completed
+Res-0265,Laboratory,Staff,Class,92.0,Completed
+Res-0244,Multimedia Room,Organization,Meeting,76.0,Not Completed
+Res-0323,Auditorium,Faculty,Meeting,14.0,Not Completed
+Res-0400,Conference Room,Organization,Class,88.0,Completed
+Res-0311,Conference Room,Faculty,Seminar,84.0,Completed
+Res-0218,Auditorium,Faculty,Seminar,43.0,Not Completed
+Res-0228,Auditorium,Staff,Seminar,26.0,Completed
+Res-0261,Auditorium,Staff,Seminar,19.0,Not Completed
+Res-0155,Auditorium,Student,Event,65.0,Completed
+Res-0029,Multimedia Room,Student,Event,38.0,Completed
+Res-0326,Auditorium,Staff,Class,7.0,Not Completed
+Res-0205,Classroom,Faculty,Meeting,69.0,Not Completed
+Res-0148,Conference Room,Faculty,Meeting,71.0,Completed
+Res-0318,Conference Room,Student,Event,27.0,Not Completed
+Res-0109,Auditorium,Staff,Class,67.0,Not Completed
+Res-0127,Multimedia Room,Staff,Seminar,60.0,Completed
+Res-0388,Laboratory,Faculty,Training,94.0,Completed
+Res-0344,Conference Room,Faculty,Seminar,20.0,Completed
+Res-0245,Multimedia Room,Faculty,Class,23.0,Completed
+Res-0030,Conference Room,Faculty,Seminar,88.0,Completed
+Res-0292,Conference Room,Faculty,Class,8.0,Completed
+Res-0393,Conference Room,Student,Training,87.0,Completed
+Res-0202,Laboratory,Organization,Meeting,83.0,Not Completed
+Res-0237,Auditorium,Organization,Event,31.0,Not Completed
+Res-0255,Multimedia Room,Faculty,Seminar,8.0,Completed
+Res-0144,Laboratory,Faculty,Class,48.0,Completed
+Res-0287,Auditorium,Student,Meeting,55.0,Completed
+Res-0360,Classroom,Faculty,Meeting,49.0,Completed
+Res-0288,Multimedia Room,Staff,Training,15.0,Completed
+Res-0241,Auditorium,Faculty,Training,36.0,Completed
+Res-0300,Multimedia Room,Student,Seminar,67.0,Not Completed
+Res-0078,Classroom,Faculty,Meeting,20.0,Completed
+Res-0153,Classroom,Staff,Meeting,70.0,Completed
+Res-0025,Laboratory,Staff,Class,45.0,Completed
+Res-0102,Classroom,Faculty,Meeting,51.0,Completed
+Res-0273,Multimedia Room,Staff,Training,100.0,Not Completed

@@ -1,0 +1,401 @@
+Reservation_ID,User_Type,Facility_Type,Reservation_Date,Event_Date,Start_Time,End_Time,Duration_Hours,Participants,Purpose,Approval_Status,Days_Before_Event,After_Office_Hours,Actual_Attendance,Usage_Status,Cancellation_Days_Before
+RES-0001,Student,Classroom,2026-03-04,2026-03-11,09:00,12:00,3.0,99,Seminar,Approved,7,No,76,Used,0
+RES-0002,Student,Classroom,2026-03-01,2026-03-17,17:00,19:00,2.0,30,Class,Approved,16,Yes,23,Used,0
+RES-0003,Staff,Auditorium,2026-07-27,2026-08-23,07:00,10:00,3.0,59,Seminar,Approved,27,No,57,Used,0
+RES-0004,Organization,Classroom,2026-04-08,2026-04-11,13:30,15:30,2.0,38,Meeting,Approved,3,No,30,Used,0
+RES-0005,Staff,Classroom,2026-03-17,2026-04-12,18:30,20:30,2.0,29,Event,Approved,26,Yes,20,Used,0
+RES-0006,Organization,Classroom,2026-08-10,2026-08-13,14:30,16:30,2.0,86,Class,Approved,3,No,63,Used,0
+RES-0007,Organization,Classroom,2026-06-12,2026-06-17,16:00,17:00,1.0,64,Event,Approved,5,No,0,No-Show,0
+RES-0008,Faculty,Conference Room,2026-02-28,2026-03-26,07:30,09:30,2.0,39,Meeting,Approved,26,No,0,No-Show,0
+RES-0009,Organization,Laboratory,2026-04-12,2026-05-10,18:30,19:30,1.0,38,Training,Approved,28,Yes,30,Used,0
+RES-0010,Staff,Auditorium,2026-04-03,2026-04-10,09:30,10:30,1.0,11,Training,Approved,7,No,7,Used,0
+RES-0011,Staff,Auditorium,2026-04-09,2026-04-21,17:30,19:30,2.0,37,Meeting,Rejected,12,Yes,0,Cancelled,0
+RES-0012,Student,Auditorium,2026-07-16,2026-08-05,13:00,14:30,1.5,60,Seminar,Approved,20,No,53,Used,0
+RES-0013,Organization,Auditorium,2026-05-10,2026-06-08,08:30,12:30,4.0,86,Class,Approved,29,No,64,Used,0
+RES-0014,Faculty,Auditorium,2026-08-24,2026-08-24,17:30,19:30,2.0,7,Event,Approved,0,Yes,6,Used,0
+RES-0015,Organization,Laboratory,2026-03-03,2026-03-31,17:00,18:00,1.0,98,Meeting,Approved,28,Yes,88,Used,0
+RES-0016,Faculty,Laboratory,2026-08-31,2026-09-17,09:30,11:30,2.0,82,Training,Approved,17,No,66,Used,0
+RES-0017,Faculty,Conference Room,2026-06-21,2026-07-11,13:30,15:30,2.0,62,Training,Approved,20,No,45,Used,0
+RES-0018,Faculty,Auditorium,2026-01-02,2026-01-04,18:00,19:00,1.0,13,Class,Rejected,2,Yes,0,Cancelled,1
+RES-0019,Student,Auditorium,2026-03-13,2026-04-03,15:00,17:00,2.0,21,Class,Approved,21,No,0,Cancelled,18
+RES-0020,Staff,Laboratory,2026-07-26,2026-08-08,10:00,11:00,1.0,89,Training,Approved,13,No,70,Used,0
+RES-0021,Student,Classroom,2026-04-14,2026-05-07,13:00,14:00,1.0,29,Meeting,Approved,23,No,22,Used,0
+RES-0022,Organization,Multimedia Room,2026-08-12,2026-09-10,08:30,12:30,4.0,75,Class,Approved,29,No,61,Used,0
+RES-0023,Student,Classroom,2026-02-12,2026-02-25,15:30,16:30,1.0,56,Class,Rejected,13,No,0,Cancelled,2
+RES-0024,Staff,Classroom,2026-03-09,2026-04-07,15:30,17:30,2.0,94,Training,Rejected,29,No,0,Cancelled,25
+RES-0025,Staff,Laboratory,2026-03-17,2026-03-23,07:00,10:00,3.0,45,Class,Approved,6,No,36,Used,0
+RES-0026,Faculty,Classroom,2026-01-21,2026-02-17,09:00,11:00,2.0,13,Event,Approved,27,No,8,Used,0
+RES-0027,Faculty,Auditorium,2026-01-11,2026-01-30,08:30,11:30,3.0,79,Event,Approved,19,No,55,Used,0
+RES-0028,Organization,Laboratory,2026-04-12,2026-04-16,18:30,20:30,2.0,45,Seminar,Rejected,4,Yes,0,Cancelled,0
+RES-0029,Student,Multimedia Room,2026-05-25,2026-05-28,08:00,10:00,2.0,38,Event,Approved,3,No,23,Used,0
+RES-0030,Faculty,Conference Room,2026-02-10,2026-02-24,16:30,18:30,2.0,88,Seminar,Approved,14,No,72,Used,0
+RES-0031,Student,Laboratory,2026-01-30,2026-02-27,08:00,09:30,1.5,41,Seminar,Approved,28,No,27,Used,0
+RES-0032,Organization,Auditorium,2026-03-06,2026-04-03,07:00,10:00,3.0,59,Training,Approved,28,No,43,Used,0
+RES-0033,Faculty,Conference Room,2026-07-09,2026-07-23,16:30,18:30,2.0,6,Class,Approved,14,No,0,No-Show,0
+RES-0034,Faculty,Auditorium,2026-08-02,2026-08-13,17:00,19:00,2.0,21,Meeting,Approved,11,Yes,20,Used,0
+RES-0035,Student,Conference Room,2026-06-24,2026-07-01,18:00,19:30,1.5,76,Class,Approved,7,Yes,64,Used,0
+RES-0036,Faculty,Laboratory,2026-09-07,2026-10-02,09:30,10:30,1.0,27,Class,Approved,25,No,26,Used,0
+RES-0037,Faculty,Conference Room,2026-07-21,2026-08-12,08:30,12:30,4.0,9,Class,Approved,22,No,8,Used,0
+RES-0038,Staff,Conference Room,2026-07-30,2026-08-24,10:00,11:00,1.0,89,Seminar,Approved,25,No,84,Used,0
+RES-0039,Organization,Conference Room,2026-04-13,2026-05-04,16:30,17:30,1.0,19,Event,Approved,21,No,15,Used,0
+RES-0040,Organization,Classroom,2026-06-02,2026-06-15,13:30,15:30,2.0,82,Meeting,Rejected,13,No,0,Cancelled,1
+RES-0041,Staff,Auditorium,2026-03-07,2026-03-08,14:00,16:00,2.0,73,Class,Approved,1,No,0,No-Show,0
+RES-0042,Faculty,Conference Room,2026-01-18,2026-02-17,18:30,20:30,2.0,45,Training,Approved,30,Yes,43,Used,0
+RES-0043,Organization,Multimedia Room,2026-04-14,2026-05-06,11:00,12:00,1.0,58,Seminar,Approved,22,No,52,Used,0
+RES-0044,Faculty,Auditorium,2026-03-19,2026-03-31,16:00,17:30,1.5,41,Event,Approved,12,No,0,Cancelled,9
+RES-0045,Organization,Multimedia Room,2026-04-24,2026-05-15,10:30,14:30,4.0,99,Training,Approved,21,No,79,Used,0
+RES-0046,Organization,Classroom,2026-06-22,2026-07-01,10:00,11:00,1.0,8,Class,Approved,9,No,0,No-Show,0
+RES-0047,Student,Multimedia Room,2026-08-15,2026-09-04,17:00,20:00,3.0,94,Training,Approved,20,Yes,61,Used,0
+RES-0048,Student,Classroom,2026-02-26,2026-03-03,16:30,17:30,1.0,76,Training,Approved,5,No,0,Cancelled,3
+RES-0049,Faculty,Multimedia Room,2026-05-24,2026-06-12,13:30,15:30,2.0,97,Event,Approved,19,No,93,Used,0
+RES-0050,Staff,Laboratory,2026-04-26,2026-05-04,10:30,14:30,4.0,71,Training,Approved,8,No,55,Used,0
+RES-0051,Organization,Laboratory,2026-03-27,2026-04-06,16:00,17:00,1.0,24,Seminar,Approved,10,No,21,Used,0
+RES-0052,Student,Multimedia Room,2026-03-26,2026-04-12,15:30,16:30,1.0,31,Training,Approved,17,No,28,Used,0
+RES-0053,Student,Auditorium,2026-05-03,2026-05-03,13:30,17:30,4.0,54,Training,Approved,0,No,0,No-Show,0
+RES-0054,Staff,Auditorium,2026-07-24,2026-08-12,10:30,11:30,1.0,39,Event,Approved,19,No,28,Used,0
+RES-0055,Staff,Laboratory,2026-08-24,2026-08-28,17:00,19:00,2.0,80,Training,Approved,4,Yes,68,Used,0
+RES-0056,Faculty,Multimedia Room,2026-01-13,2026-01-21,14:30,15:30,1.0,63,Class,Approved,8,No,0,Cancelled,6
+RES-0057,Organization,Multimedia Room,2026-08-02,2026-08-04,15:00,18:00,3.0,74,Seminar,Approved,2,No,0,No-Show,0
+RES-0058,Faculty,Classroom,2026-07-13,2026-07-13,10:00,14:00,4.0,7,Meeting,Approved,0,No,5,Used,0
+RES-0059,Student,Auditorium,2026-04-30,2026-05-22,11:30,12:30,1.0,82,Class,Approved,22,No,52,Used,0
+RES-0060,Faculty,Conference Room,2026-05-29,2026-05-29,11:30,13:30,2.0,96,Meeting,Approved,0,No,89,Used,0
+RES-0061,Faculty,Classroom,2026-08-06,2026-08-27,17:00,21:00,4.0,77,Seminar,Approved,21,Yes,59,Used,0
+RES-0062,Organization,Classroom,2026-06-15,2026-06-25,07:30,11:30,4.0,67,Event,Approved,10,No,0,No-Show,0
+RES-0063,Staff,Laboratory,2026-02-15,2026-03-10,16:30,18:30,2.0,73,Training,Approved,23,No,67,Used,0
+RES-0064,Organization,Conference Room,2026-08-01,2026-08-30,08:30,10:30,2.0,36,Class,Approved,29,No,31,Used,0
+RES-0065,Organization,Classroom,2026-08-06,2026-08-16,09:30,10:30,1.0,50,Training,Approved,10,No,47,Used,0
+RES-0066,Organization,Auditorium,2026-05-13,2026-06-12,10:00,11:00,1.0,97,Meeting,Approved,30,No,67,Used,0
+RES-0067,Staff,Multimedia Room,2026-07-22,2026-07-22,08:30,09:30,1.0,56,Training,Approved,0,No,46,Used,0
+RES-0068,Staff,Auditorium,2026-03-30,2026-04-12,16:30,18:00,1.5,94,Event,Approved,13,No,65,Used,0
+RES-0069,Faculty,Conference Room,2026-07-10,2026-07-27,09:00,10:00,1.0,99,Meeting,Approved,17,No,98,Used,0
+RES-0070,Organization,Classroom,2026-03-17,2026-03-24,13:00,14:30,1.5,6,Class,Approved,7,No,3,Used,0
+RES-0071,Student,Auditorium,2026-06-28,2026-07-28,09:30,10:30,1.0,6,Seminar,Approved,30,No,4,Used,0
+RES-0072,Faculty,Classroom,2026-08-29,2026-09-25,15:00,19:00,4.0,13,Seminar,Approved,27,No,11,Used,0
+RES-0073,Student,Laboratory,2026-07-27,2026-08-14,11:00,12:00,1.0,20,Class,Approved,18,No,16,Used,0
+RES-0074,Faculty,Auditorium,2026-04-26,2026-05-25,15:30,19:30,4.0,80,Training,Rejected,29,No,0,Cancelled,9
+RES-0075,Student,Auditorium,2026-08-31,2026-09-24,10:00,11:30,1.5,89,Meeting,Approved,24,No,73,Used,0
+RES-0076,Faculty,Classroom,2026-04-26,2026-05-18,17:30,19:00,1.5,9,Training,Approved,22,Yes,7,Used,0
+RES-0077,Staff,Classroom,2026-08-25,2026-09-02,18:00,20:00,2.0,19,Class,Approved,8,Yes,18,Used,0
+RES-0078,Faculty,Classroom,2026-02-12,2026-03-09,11:30,13:30,2.0,20,Meeting,Approved,25,No,15,Used,0
+RES-0079,Organization,Auditorium,2026-05-07,2026-05-21,08:00,10:00,2.0,99,Event,Approved,14,No,63,Used,0
+RES-0080,Student,Conference Room,2026-01-11,2026-02-04,09:30,11:30,2.0,88,Event,Approved,24,No,87,Used,0
+RES-0081,Staff,Multimedia Room,2026-05-01,2026-05-12,14:30,16:00,1.5,90,Meeting,Approved,11,No,68,Used,0
+RES-0082,Staff,Conference Room,2026-07-28,2026-08-21,16:00,18:00,2.0,16,Training,Approved,24,No,15,Used,0
+RES-0083,Staff,Auditorium,2026-06-18,2026-07-15,16:30,18:30,2.0,11,Meeting,Approved,27,No,9,Used,0
+RES-0084,Staff,Classroom,2026-03-10,2026-03-27,09:30,11:30,2.0,94,Class,Approved,17,No,80,Used,0
+RES-0085,Faculty,Laboratory,2026-05-22,2026-05-22,16:30,17:30,1.0,33,Seminar,Rejected,0,No,0,Cancelled,0
+RES-0086,Staff,Classroom,2026-05-08,2026-06-06,11:30,13:30,2.0,66,Class,Rejected,29,No,0,Cancelled,7
+RES-0087,Staff,Auditorium,2026-04-09,2026-04-15,17:00,21:00,4.0,13,Class,Approved,6,Yes,0,Cancelled,3
+RES-0088,Organization,Auditorium,2026-07-30,2026-07-30,11:30,15:30,4.0,80,Seminar,Approved,0,No,75,Used,0
+RES-0089,Staff,Auditorium,2026-03-30,2026-04-09,16:30,18:30,2.0,46,Training,Approved,10,No,0,No-Show,0
+RES-0090,Faculty,Auditorium,2026-03-01,2026-03-28,14:00,15:30,1.5,100,Training,Approved,27,No,0,No-Show,0
+RES-0091,Staff,Multimedia Room,2026-05-07,2026-06-06,07:00,09:00,2.0,80,Class,Approved,30,No,75,Used,0
+RES-0092,Student,Auditorium,2026-01-04,2026-01-27,09:30,13:30,4.0,88,Training,Rejected,23,No,0,Cancelled,2
+RES-0093,Staff,Conference Room,2026-06-09,2026-07-01,14:00,18:00,4.0,47,Seminar,Approved,22,No,0,Cancelled,12
+RES-0094,Organization,Multimedia Room,2026-01-10,2026-01-29,08:00,11:00,3.0,92,Event,Rejected,19,No,0,Cancelled,7
+RES-0095,Student,Multimedia Room,2026-07-14,2026-08-03,08:30,09:30,1.0,93,Meeting,Approved,20,No,67,Used,0
+RES-0096,Student,Conference Room,2026-04-06,2026-04-19,09:00,11:00,2.0,57,Seminar,Approved,13,No,0,Cancelled,2
+RES-0097,Faculty,Classroom,2026-08-11,2026-08-23,17:00,19:00,2.0,79,Event,Approved,12,Yes,55,Used,0
+RES-0098,Organization,Classroom,2026-08-19,2026-08-28,18:00,19:00,1.0,61,Training,Rejected,9,Yes,0,Cancelled,9
+RES-0099,Organization,Multimedia Room,2026-04-27,2026-05-24,11:00,13:00,2.0,66,Seminar,Approved,27,No,49,Used,0
+RES-0100,Organization,Conference Room,2026-09-08,2026-10-04,18:30,20:00,1.5,6,Meeting,Approved,26,Yes,5,Used,0
+RES-0101,Student,Auditorium,2026-08-02,2026-08-30,11:00,13:00,2.0,50,Training,Approved,28,No,35,Used,0
+RES-0102,Faculty,Classroom,2026-03-21,2026-04-15,15:00,17:00,2.0,51,Meeting,Approved,25,No,36,Used,0
+RES-0103,Staff,Laboratory,2026-02-03,2026-02-28,16:30,18:30,2.0,69,Class,Rejected,25,No,0,Cancelled,5
+RES-0104,Organization,Multimedia Room,2026-07-11,2026-08-07,13:00,15:00,2.0,14,Seminar,Approved,27,No,0,No-Show,0
+RES-0105,Staff,Auditorium,2026-01-24,2026-02-18,14:00,15:30,1.5,73,Seminar,Approved,25,No,65,Used,0
+RES-0106,Organization,Auditorium,2026-07-30,2026-08-19,13:00,16:00,3.0,34,Training,Approved,20,No,33,Used,0
+RES-0107,Organization,Auditorium,2026-06-15,2026-06-17,18:30,21:30,3.0,43,Class,Approved,2,Yes,26,Used,0
+RES-0108,Student,Conference Room,2026-01-30,2026-02-02,10:00,12:00,2.0,63,Training,Approved,3,No,0,No-Show,0
+RES-0109,Staff,Auditorium,2026-08-15,2026-08-28,18:00,22:00,4.0,67,Class,Approved,13,Yes,0,No-Show,0
+RES-0110,Organization,Classroom,2026-02-25,2026-03-11,15:00,19:00,4.0,51,Seminar,Approved,14,No,41,Used,0
+RES-0111,Organization,Classroom,2026-03-12,2026-03-18,08:30,09:30,1.0,89,Training,Approved,6,No,87,Used,0
+RES-0112,Student,Conference Room,2026-02-02,2026-02-27,17:00,18:00,1.0,75,Class,Approved,25,Yes,71,Used,0
+RES-0113,Organization,Laboratory,2026-01-01,2026-01-09,09:00,11:00,2.0,37,Event,Approved,8,No,35,Used,0
+RES-0114,Faculty,Classroom,2026-07-22,2026-08-16,10:30,11:30,1.0,27,Seminar,Approved,25,No,20,Used,0
+RES-0115,Student,Classroom,2026-04-25,2026-05-19,13:00,15:00,2.0,69,Training,Approved,24,No,61,Used,0
+RES-0116,Organization,Multimedia Room,2026-01-16,2026-01-31,14:30,17:30,3.0,18,Meeting,Approved,15,No,0,No-Show,0
+RES-0117,Student,Classroom,2026-06-05,2026-06-09,08:00,09:30,1.5,84,Seminar,Approved,4,No,61,Used,0
+RES-0118,Organization,Multimedia Room,2026-06-04,2026-06-17,08:00,12:00,4.0,88,Event,Approved,13,No,0,Cancelled,11
+RES-0119,Faculty,Multimedia Room,2026-08-16,2026-08-23,14:30,18:30,4.0,63,Training,Approved,7,No,45,Used,0
+RES-0120,Organization,Conference Room,2026-09-02,2026-09-06,18:30,19:30,1.0,16,Seminar,Approved,4,Yes,10,Used,0
+RES-0121,Organization,Laboratory,2026-01-16,2026-02-03,16:30,19:30,3.0,20,Event,Approved,18,No,0,Cancelled,13
+RES-0122,Student,Conference Room,2026-03-21,2026-04-01,08:00,09:00,1.0,89,Event,Approved,11,No,0,Cancelled,5
+RES-0123,Organization,Classroom,2026-05-27,2026-06-03,14:00,16:00,2.0,89,Seminar,Approved,7,No,59,Used,0
+RES-0124,Organization,Conference Room,2026-01-02,2026-01-07,09:30,10:30,1.0,23,Seminar,Approved,5,No,0,No-Show,0
+RES-0125,Student,Auditorium,2026-04-07,2026-04-20,15:30,16:30,1.0,52,Class,Approved,13,No,50,Used,0
+RES-0126,Student,Classroom,2026-02-10,2026-03-06,17:00,20:00,3.0,15,Class,Approved,24,Yes,11,Used,0
+RES-0127,Staff,Multimedia Room,2026-02-25,2026-03-21,16:00,17:30,1.5,60,Seminar,Approved,24,No,50,Used,0
+RES-0128,Organization,Classroom,2026-04-12,2026-05-01,07:00,08:00,1.0,43,Class,Rejected,19,No,0,Cancelled,4
+RES-0129,Organization,Conference Room,2026-01-31,2026-01-31,15:30,16:30,1.0,21,Seminar,Approved,0,No,16,Used,0
+RES-0130,Organization,Classroom,2026-08-09,2026-09-01,07:30,08:30,1.0,63,Training,Rejected,23,No,0,Cancelled,10
+RES-0131,Staff,Auditorium,2026-07-01,2026-07-21,14:30,15:30,1.0,56,Training,Approved,20,No,51,Used,0
+RES-0132,Staff,Conference Room,2026-04-22,2026-05-19,08:00,10:00,2.0,80,Meeting,Approved,27,No,75,Used,0
+RES-0133,Organization,Laboratory,2026-07-19,2026-07-24,08:00,10:00,2.0,70,Seminar,Approved,5,No,0,Cancelled,2
+RES-0134,Faculty,Laboratory,2026-02-07,2026-02-15,10:00,12:00,2.0,24,Meeting,Approved,8,No,16,Used,0
+RES-0135,Staff,Multimedia Room,2026-07-14,2026-08-01,15:30,19:30,4.0,85,Event,Approved,18,No,66,Used,0
+RES-0136,Organization,Conference Room,2026-01-15,2026-01-26,16:00,17:30,1.5,64,Event,Approved,11,No,59,Used,0
+RES-0137,Student,Classroom,2026-06-02,2026-06-18,14:30,16:30,2.0,75,Event,Rejected,16,No,0,Cancelled,1
+RES-0138,Staff,Auditorium,2026-03-24,2026-04-12,15:00,16:00,1.0,62,Class,Approved,19,No,0,Cancelled,10
+RES-0139,Student,Auditorium,2026-01-11,2026-01-18,15:30,17:30,2.0,71,Class,Approved,7,No,68,Used,0
+RES-0140,Staff,Multimedia Room,2026-06-23,2026-07-12,07:30,08:30,1.0,47,Seminar,Approved,19,No,33,Used,0
+RES-0141,Faculty,Conference Room,2026-05-30,2026-06-20,09:30,11:00,1.5,88,Meeting,Approved,21,No,73,Used,0
+RES-0142,Student,Conference Room,2026-04-07,2026-04-27,13:00,16:00,3.0,94,Event,Approved,20,No,82,Used,0
+RES-0143,Student,Multimedia Room,2026-04-03,2026-04-03,13:30,14:30,1.0,32,Event,Approved,0,No,0,Cancelled,0
+RES-0144,Faculty,Laboratory,2026-01-20,2026-01-29,08:00,11:00,3.0,48,Class,Approved,9,No,40,Used,0
+RES-0145,Faculty,Laboratory,2026-08-01,2026-08-23,17:00,20:00,3.0,61,Class,Approved,22,Yes,54,Used,0
+RES-0146,Staff,Auditorium,2026-07-12,2026-08-04,15:00,17:00,2.0,35,Seminar,Approved,23,No,0,Cancelled,15
+RES-0147,Faculty,Conference Room,2026-04-23,2026-05-07,11:30,13:30,2.0,72,Event,Approved,14,No,48,Used,0
+RES-0148,Faculty,Conference Room,2026-06-14,2026-06-29,13:00,16:00,3.0,71,Meeting,Approved,15,No,64,Used,0
+RES-0149,Organization,Multimedia Room,2026-02-07,2026-03-05,14:00,15:00,1.0,62,Event,Approved,26,No,0,No-Show,0
+RES-0150,Staff,Classroom,2026-05-09,2026-05-20,10:30,11:30,1.0,52,Training,Approved,11,No,33,Used,0
+RES-0151,Organization,Laboratory,2026-01-10,2026-01-19,15:00,19:00,4.0,95,Class,Approved,9,No,91,Used,0
+RES-0152,Student,Conference Room,2026-08-02,2026-08-06,16:30,17:30,1.0,41,Class,Approved,4,No,28,Used,0
+RES-0153,Staff,Classroom,2026-08-03,2026-08-31,15:00,18:00,3.0,70,Meeting,Approved,28,No,50,Used,0
+RES-0154,Student,Auditorium,2026-03-03,2026-03-21,14:00,17:00,3.0,90,Seminar,Approved,18,No,0,No-Show,0
+RES-0155,Student,Auditorium,2026-05-10,2026-06-04,16:00,18:00,2.0,65,Event,Approved,25,No,48,Used,0
+RES-0156,Student,Conference Room,2026-03-30,2026-04-06,18:00,22:00,4.0,79,Meeting,Approved,7,Yes,48,Used,0
+RES-0157,Organization,Laboratory,2026-06-28,2026-07-13,18:00,22:00,4.0,22,Training,Approved,15,Yes,0,Cancelled,14
+RES-0158,Student,Conference Room,2026-01-12,2026-02-06,10:00,11:30,1.5,44,Class,Approved,25,No,0,No-Show,0
+RES-0159,Staff,Conference Room,2026-07-12,2026-08-01,10:30,12:00,1.5,11,Meeting,Approved,20,No,7,Used,0
+RES-0160,Organization,Multimedia Room,2026-07-10,2026-07-24,14:30,15:30,1.0,68,Training,Approved,14,No,62,Used,0
+RES-0161,Organization,Classroom,2026-01-21,2026-02-03,17:00,19:00,2.0,42,Training,Approved,13,Yes,36,Used,0
+RES-0162,Organization,Multimedia Room,2026-07-03,2026-07-16,09:30,11:00,1.5,62,Event,Approved,13,No,0,Cancelled,5
+RES-0163,Staff,Conference Room,2026-01-20,2026-02-10,18:30,20:00,1.5,70,Meeting,Approved,21,Yes,68,Used,0
+RES-0164,Faculty,Auditorium,2026-01-09,2026-01-13,08:00,12:00,4.0,87,Training,Approved,4,No,71,Used,0
+RES-0165,Faculty,Multimedia Room,2026-04-06,2026-04-20,08:00,10:00,2.0,51,Seminar,Approved,14,No,35,Used,0
+RES-0166,Student,Classroom,2026-05-08,2026-05-24,14:00,15:30,1.5,38,Class,Approved,16,No,32,Used,0
+RES-0167,Staff,Laboratory,2026-02-04,2026-03-03,08:30,09:30,1.0,96,Meeting,Approved,27,No,83,Used,0
+RES-0168,Organization,Conference Room,2026-05-21,2026-06-07,11:30,15:30,4.0,25,Meeting,Approved,17,No,0,No-Show,0
+RES-0169,Faculty,Conference Room,2026-02-27,2026-03-02,10:00,11:00,1.0,68,Event,Approved,3,No,50,Used,0
+RES-0170,Faculty,Auditorium,2026-01-17,2026-01-26,14:30,16:30,2.0,57,Meeting,Approved,9,No,0,Cancelled,1
+RES-0171,Faculty,Conference Room,2026-04-26,2026-05-10,18:30,19:30,1.0,75,Meeting,Approved,14,Yes,73,Used,0
+RES-0172,Staff,Auditorium,2026-08-01,2026-08-04,16:00,17:30,1.5,26,Meeting,Approved,3,No,0,No-Show,0
+RES-0173,Faculty,Conference Room,2026-08-18,2026-08-27,08:30,09:30,1.0,86,Event,Rejected,9,No,0,Cancelled,4
+RES-0174,Faculty,Conference Room,2026-05-17,2026-05-19,16:00,18:00,2.0,79,Event,Approved,2,No,70,Used,0
+RES-0175,Organization,Auditorium,2026-07-31,2026-08-27,07:00,08:00,1.0,87,Meeting,Approved,27,No,59,Used,0
+RES-0176,Staff,Auditorium,2026-05-08,2026-06-05,18:30,21:30,3.0,43,Meeting,Approved,28,Yes,0,Cancelled,21
+RES-0177,Staff,Conference Room,2026-01-19,2026-02-10,07:00,09:00,2.0,58,Training,Approved,22,No,48,Used,0
+RES-0178,Organization,Conference Room,2026-09-07,2026-09-19,09:30,11:30,2.0,76,Seminar,Approved,12,No,49,Used,0
+RES-0179,Staff,Laboratory,2026-01-25,2026-01-26,11:30,15:30,4.0,83,Class,Approved,1,No,0,No-Show,0
+RES-0180,Faculty,Conference Room,2026-07-04,2026-07-14,10:00,12:00,2.0,70,Event,Approved,10,No,0,Cancelled,7
+RES-0181,Student,Classroom,2026-05-10,2026-05-24,10:00,12:00,2.0,50,Training,Approved,14,No,41,Used,0
+RES-0182,Staff,Conference Room,2026-01-03,2026-01-30,08:30,09:30,1.0,38,Event,Approved,27,No,0,Cancelled,11
+RES-0183,Student,Multimedia Room,2026-05-26,2026-06-12,10:30,12:30,2.0,41,Meeting,Approved,17,No,37,Used,0
+RES-0184,Organization,Auditorium,2026-01-31,2026-02-04,08:30,10:00,1.5,48,Event,Approved,4,No,31,Used,0
+RES-0185,Staff,Auditorium,2026-01-12,2026-01-13,09:30,13:30,4.0,65,Meeting,Approved,1,No,62,Used,0
+RES-0186,Faculty,Conference Room,2026-03-23,2026-03-28,14:30,16:30,2.0,48,Event,Approved,5,No,38,Used,0
+RES-0187,Organization,Multimedia Room,2026-04-05,2026-04-15,18:00,20:00,2.0,79,Meeting,Approved,10,Yes,0,Cancelled,10
+RES-0188,Student,Auditorium,2026-03-09,2026-04-08,18:00,21:00,3.0,11,Training,Approved,30,Yes,9,Used,0
+RES-0189,Staff,Laboratory,2026-01-09,2026-01-27,08:00,09:00,1.0,61,Class,Approved,18,No,53,Used,0
+RES-0190,Staff,Auditorium,2026-08-24,2026-09-08,07:00,09:00,2.0,31,Event,Approved,15,No,0,No-Show,0
+RES-0191,Staff,Auditorium,2026-03-22,2026-04-21,09:30,11:30,2.0,48,Training,Approved,30,No,45,Used,0
+RES-0192,Organization,Auditorium,2026-02-19,2026-03-21,10:30,12:30,2.0,43,Training,Approved,30,No,0,No-Show,0
+RES-0193,Organization,Conference Room,2026-06-26,2026-07-18,15:30,17:30,2.0,49,Class,Approved,22,No,0,No-Show,0
+RES-0194,Organization,Conference Room,2026-05-27,2026-06-17,16:30,18:30,2.0,49,Meeting,Rejected,21,No,0,Cancelled,4
+RES-0195,Organization,Classroom,2026-09-02,2026-09-24,08:30,10:30,2.0,88,Seminar,Approved,22,No,59,Used,0
+RES-0196,Organization,Auditorium,2026-02-05,2026-02-08,17:00,18:00,1.0,11,Seminar,Approved,3,Yes,9,Used,0
+RES-0197,Student,Classroom,2026-03-26,2026-04-17,15:00,18:00,3.0,22,Training,Approved,22,No,21,Used,0
+RES-0198,Staff,Multimedia Room,2026-06-16,2026-06-22,11:30,13:00,1.5,87,Training,Approved,6,No,0,Cancelled,5
+RES-0199,Faculty,Auditorium,2026-08-22,2026-09-20,09:30,13:30,4.0,27,Meeting,Rejected,29,No,0,Cancelled,1
+RES-0200,Staff,Multimedia Room,2026-08-28,2026-09-20,11:00,12:00,1.0,43,Class,Approved,23,No,42,Used,0
+RES-0201,Organization,Multimedia Room,2026-05-15,2026-05-30,09:30,11:00,1.5,29,Event,Approved,15,No,25,Used,0
+RES-0202,Organization,Laboratory,2026-07-08,2026-07-18,11:00,12:00,1.0,83,Meeting,Approved,10,No,0,Cancelled,6
+RES-0203,Organization,Classroom,2026-06-21,2026-06-24,09:00,11:00,2.0,46,Training,Rejected,3,No,0,Cancelled,0
+RES-0204,Organization,Multimedia Room,2026-04-25,2026-05-19,11:30,13:00,1.5,79,Class,Approved,24,No,68,Used,0
+RES-0205,Faculty,Classroom,2026-04-30,2026-05-09,09:30,12:30,3.0,69,Meeting,Rejected,9,No,0,Cancelled,4
+RES-0206,Student,Conference Room,2026-06-07,2026-06-14,10:00,12:00,2.0,24,Seminar,Approved,7,No,0,No-Show,0
+RES-0207,Organization,Multimedia Room,2026-08-22,2026-09-06,16:00,20:00,4.0,36,Event,Approved,15,No,32,Used,0
+RES-0208,Staff,Auditorium,2026-01-20,2026-02-18,17:00,18:00,1.0,75,Seminar,Rejected,29,Yes,0,Cancelled,6
+RES-0209,Faculty,Laboratory,2026-08-07,2026-08-23,15:00,18:00,3.0,31,Seminar,Approved,16,No,29,Used,0
+RES-0210,Staff,Classroom,2026-02-03,2026-02-19,14:30,16:30,2.0,12,Training,Approved,16,No,8,Used,0
+RES-0211,Student,Multimedia Room,2026-07-29,2026-07-29,10:00,11:00,1.0,59,Seminar,Approved,0,No,58,Used,0
+RES-0212,Student,Multimedia Room,2026-03-15,2026-03-28,09:00,13:00,4.0,87,Meeting,Rejected,13,No,0,Cancelled,10
+RES-0213,Staff,Conference Room,2026-04-25,2026-05-22,14:30,15:30,1.0,92,Training,Rejected,27,No,0,Cancelled,27
+RES-0214,Faculty,Conference Room,2026-02-15,2026-03-04,14:00,17:00,3.0,33,Meeting,Approved,17,No,0,Cancelled,9
+RES-0215,Staff,Auditorium,2026-05-17,2026-05-29,10:00,12:00,2.0,49,Training,Approved,12,No,46,Used,0
+RES-0216,Student,Classroom,2026-06-07,2026-07-01,07:00,08:00,1.0,13,Training,Approved,24,No,10,Used,0
+RES-0217,Student,Laboratory,2026-04-13,2026-04-27,10:00,14:00,4.0,12,Meeting,Approved,14,No,0,No-Show,0
+RES-0218,Faculty,Auditorium,2026-05-28,2026-06-16,18:30,19:30,1.0,43,Seminar,Approved,19,Yes,0,No-Show,0
+RES-0219,Faculty,Multimedia Room,2026-03-12,2026-03-13,16:00,19:00,3.0,91,Seminar,Approved,1,No,89,Used,0
+RES-0220,Staff,Auditorium,2026-06-28,2026-07-11,14:00,15:30,1.5,53,Seminar,Approved,13,No,36,Used,0
+RES-0221,Faculty,Conference Room,2026-07-26,2026-08-09,07:30,09:30,2.0,76,Class,Approved,14,No,53,Used,0
+RES-0222,Organization,Classroom,2026-08-05,2026-08-16,08:00,09:00,1.0,39,Training,Approved,11,No,24,Used,0
+RES-0223,Student,Laboratory,2026-07-05,2026-07-26,16:00,18:00,2.0,31,Event,Approved,21,No,30,Used,0
+RES-0224,Student,Laboratory,2026-09-04,2026-09-27,08:30,09:30,1.0,94,Class,Approved,23,No,90,Used,0
+RES-0225,Organization,Conference Room,2026-04-30,2026-05-17,18:30,20:00,1.5,38,Training,Approved,17,Yes,0,Cancelled,14
+RES-0226,Student,Multimedia Room,2026-08-23,2026-08-29,13:30,15:30,2.0,10,Seminar,Approved,6,No,6,Used,0
+RES-0227,Organization,Auditorium,2026-05-29,2026-06-21,14:30,15:30,1.0,30,Event,Approved,23,No,28,Used,0
+RES-0228,Staff,Auditorium,2026-03-07,2026-03-31,15:30,17:30,2.0,26,Seminar,Approved,24,No,17,Used,0
+RES-0229,Staff,Laboratory,2026-06-14,2026-07-14,07:00,11:00,4.0,14,Event,Rejected,30,No,0,Cancelled,21
+RES-0230,Student,Classroom,2026-02-05,2026-03-03,18:00,19:00,1.0,95,Training,Approved,26,Yes,74,Used,0
+RES-0231,Student,Auditorium,2026-08-22,2026-09-06,18:30,19:30,1.0,5,Event,Approved,15,Yes,3,Used,0
+RES-0232,Organization,Auditorium,2026-01-05,2026-01-21,18:30,22:30,4.0,27,Seminar,Approved,16,Yes,17,Used,0
+RES-0233,Faculty,Auditorium,2026-03-06,2026-04-01,13:30,17:30,4.0,55,Event,Approved,26,No,0,No-Show,0
+RES-0234,Staff,Auditorium,2026-06-28,2026-07-05,11:00,14:00,3.0,88,Class,Approved,7,No,66,Used,0
+RES-0235,Staff,Classroom,2026-06-29,2026-07-04,08:30,12:30,4.0,60,Meeting,Approved,5,No,59,Used,0
+RES-0236,Student,Auditorium,2026-02-28,2026-03-06,17:30,19:00,1.5,10,Meeting,Rejected,6,Yes,0,Cancelled,5
+RES-0237,Organization,Auditorium,2026-06-18,2026-06-19,09:30,10:30,1.0,31,Event,Approved,1,No,0,Cancelled,1
+RES-0238,Student,Conference Room,2026-05-25,2026-06-01,17:30,20:30,3.0,74,Class,Approved,7,Yes,0,Cancelled,2
+RES-0239,Student,Auditorium,2026-01-14,2026-01-17,14:00,18:00,4.0,14,Seminar,Approved,3,No,0,Cancelled,3
+RES-0240,Organization,Classroom,2026-07-20,2026-08-03,15:00,16:30,1.5,75,Seminar,Rejected,14,No,0,Cancelled,6
+RES-0241,Faculty,Auditorium,2026-01-22,2026-02-15,17:30,21:30,4.0,36,Training,Approved,24,Yes,23,Used,0
+RES-0242,Faculty,Multimedia Room,2026-04-03,2026-04-06,08:00,09:30,1.5,61,Seminar,Approved,3,No,39,Used,0
+RES-0243,Faculty,Multimedia Room,2026-05-23,2026-06-09,16:30,17:30,1.0,8,Training,Approved,17,No,6,Used,0
+RES-0244,Organization,Multimedia Room,2026-03-16,2026-03-29,14:00,17:00,3.0,76,Meeting,Rejected,13,No,0,Cancelled,3
+RES-0245,Faculty,Multimedia Room,2026-02-05,2026-02-13,11:30,13:30,2.0,23,Class,Approved,8,No,17,Used,0
+RES-0246,Staff,Classroom,2026-03-06,2026-04-05,10:30,12:30,2.0,83,Seminar,Approved,30,No,59,Used,0
+RES-0247,Staff,Conference Room,2026-04-08,2026-05-03,13:30,15:00,1.5,60,Event,Approved,25,No,0,Cancelled,19
+RES-0248,Faculty,Conference Room,2026-06-04,2026-07-04,10:30,12:00,1.5,27,Seminar,Rejected,30,No,0,Cancelled,30
+RES-0249,Organization,Conference Room,2026-09-05,2026-09-23,10:30,12:30,2.0,40,Training,Approved,18,No,25,Used,0
+RES-0250,Faculty,Auditorium,2026-02-16,2026-03-09,16:00,19:00,3.0,64,Event,Rejected,21,No,0,Cancelled,6
+RES-0251,Staff,Conference Room,2026-07-29,2026-08-25,14:30,15:30,1.0,86,Meeting,Approved,27,No,56,Used,0
+RES-0252,Staff,Multimedia Room,2026-04-25,2026-05-14,15:30,17:30,2.0,69,Meeting,Rejected,19,No,0,Cancelled,13
+RES-0253,Student,Conference Room,2026-06-02,2026-06-22,08:00,12:00,4.0,36,Event,Approved,20,No,30,Used,0
+RES-0254,Student,Auditorium,2026-09-05,2026-09-29,13:30,14:30,1.0,6,Training,Approved,24,No,5,Used,0
+RES-0255,Faculty,Multimedia Room,2026-04-11,2026-04-25,18:00,19:30,1.5,8,Seminar,Approved,14,Yes,7,Used,0
+RES-0256,Student,Classroom,2026-03-31,2026-04-09,13:30,17:30,4.0,31,Class,Approved,9,No,19,Used,0
+RES-0257,Staff,Conference Room,2026-03-18,2026-03-19,08:00,12:00,4.0,48,Meeting,Approved,1,No,31,Used,0
+RES-0258,Faculty,Auditorium,2026-05-22,2026-05-27,13:30,15:30,2.0,34,Class,Approved,5,No,22,Used,0
+RES-0259,Staff,Multimedia Room,2026-07-08,2026-07-27,10:30,12:30,2.0,59,Meeting,Approved,19,No,40,Used,0
+RES-0260,Student,Auditorium,2026-07-24,2026-08-20,16:00,17:30,1.5,46,Meeting,Approved,27,No,39,Used,0
+RES-0261,Staff,Auditorium,2026-06-02,2026-06-14,17:30,19:30,2.0,19,Seminar,Approved,12,Yes,0,Cancelled,9
+RES-0262,Faculty,Conference Room,2026-06-01,2026-06-03,18:00,19:30,1.5,20,Event,Approved,2,Yes,14,Used,0
+RES-0263,Faculty,Auditorium,2026-04-18,2026-05-07,09:30,11:30,2.0,28,Training,Approved,19,No,27,Used,0
+RES-0264,Faculty,Auditorium,2026-05-06,2026-05-15,09:00,10:30,1.5,62,Class,Approved,9,No,0,Cancelled,0
+RES-0265,Staff,Laboratory,2026-07-28,2026-08-09,16:30,18:30,2.0,92,Class,Approved,12,No,71,Used,0
+RES-0266,Faculty,Classroom,2026-01-08,2026-02-02,10:30,11:30,1.0,40,Event,Approved,25,No,36,Used,0
+RES-0267,Staff,Auditorium,2026-01-29,2026-02-16,08:30,12:30,4.0,74,Event,Approved,18,No,68,Used,0
+RES-0268,Student,Multimedia Room,2026-02-25,2026-03-10,08:00,09:30,1.5,9,Event,Approved,13,No,8,Used,0
+RES-0269,Staff,Classroom,2026-02-23,2026-03-20,17:30,21:30,4.0,95,Class,Approved,25,Yes,80,Used,0
+RES-0270,Faculty,Laboratory,2026-05-26,2026-06-06,16:30,18:30,2.0,73,Meeting,Approved,11,No,0,No-Show,0
+RES-0271,Organization,Conference Room,2026-03-10,2026-04-09,16:00,17:00,1.0,57,Event,Rejected,30,No,0,Cancelled,8
+RES-0272,Faculty,Laboratory,2026-02-07,2026-03-01,13:00,17:00,4.0,91,Class,Approved,22,No,77,Used,0
+RES-0273,Staff,Multimedia Room,2026-01-20,2026-02-09,08:30,10:30,2.0,100,Training,Approved,20,No,0,No-Show,0
+RES-0274,Organization,Multimedia Room,2026-03-25,2026-04-12,07:00,10:00,3.0,63,Training,Approved,18,No,59,Used,0
+RES-0275,Staff,Laboratory,2026-07-31,2026-08-06,15:30,17:00,1.5,41,Training,Approved,6,No,33,Used,0
+RES-0276,Staff,Conference Room,2026-01-12,2026-01-15,18:30,19:30,1.0,20,Meeting,Rejected,3,Yes,0,Cancelled,1
+RES-0277,Staff,Multimedia Room,2026-09-03,2026-09-16,10:00,13:00,3.0,43,Meeting,Approved,13,No,0,No-Show,0
+RES-0278,Organization,Classroom,2026-03-06,2026-03-08,13:00,14:00,1.0,55,Seminar,Approved,2,No,49,Used,0
+RES-0279,Staff,Classroom,2026-01-01,2026-01-07,15:00,16:00,1.0,80,Meeting,Approved,6,No,48,Used,0
+RES-0280,Organization,Classroom,2026-06-27,2026-07-01,15:00,16:00,1.0,54,Training,Approved,4,No,0,Cancelled,0
+RES-0281,Organization,Conference Room,2026-02-05,2026-02-17,09:00,10:00,1.0,72,Seminar,Approved,12,No,47,Used,0
+RES-0282,Organization,Laboratory,2026-08-24,2026-09-06,17:30,21:30,4.0,32,Class,Approved,13,Yes,28,Used,0
+RES-0283,Staff,Conference Room,2026-03-22,2026-04-16,09:00,10:30,1.5,87,Training,Approved,25,No,73,Used,0
+RES-0284,Organization,Classroom,2026-02-22,2026-03-10,17:00,20:00,3.0,55,Seminar,Approved,16,Yes,52,Used,0
+RES-0285,Faculty,Multimedia Room,2026-01-29,2026-02-05,15:00,17:00,2.0,6,Training,Rejected,7,No,0,Cancelled,5
+RES-0286,Faculty,Multimedia Room,2026-04-18,2026-04-29,16:00,20:00,4.0,65,Event,Rejected,11,No,0,Cancelled,1
+RES-0287,Student,Auditorium,2026-01-04,2026-01-12,10:00,11:00,1.0,55,Meeting,Approved,8,No,44,Used,0
+RES-0288,Staff,Multimedia Room,2026-01-22,2026-02-11,16:00,17:30,1.5,15,Training,Approved,20,No,10,Used,0
+RES-0289,Faculty,Auditorium,2026-04-11,2026-04-29,18:00,19:30,1.5,94,Seminar,Approved,18,Yes,0,No-Show,0
+RES-0290,Faculty,Classroom,2026-01-23,2026-02-21,14:00,16:00,2.0,83,Class,Approved,29,No,74,Used,0
+RES-0291,Faculty,Classroom,2026-07-01,2026-07-05,07:00,09:00,2.0,49,Meeting,Approved,4,No,0,Cancelled,2
+RES-0292,Faculty,Conference Room,2026-07-11,2026-08-04,11:00,15:00,4.0,8,Class,Approved,24,No,6,Used,0
+RES-0293,Organization,Auditorium,2026-05-08,2026-05-22,16:30,17:30,1.0,68,Meeting,Approved,14,No,45,Used,0
+RES-0294,Student,Auditorium,2026-02-28,2026-03-23,16:00,17:00,1.0,6,Meeting,Approved,23,No,4,Used,0
+RES-0295,Faculty,Laboratory,2026-05-22,2026-06-16,18:30,19:30,1.0,46,Meeting,Approved,25,Yes,0,No-Show,0
+RES-0296,Organization,Conference Room,2026-05-27,2026-06-07,08:00,09:00,1.0,33,Meeting,Approved,11,No,0,No-Show,0
+RES-0297,Staff,Classroom,2026-08-10,2026-08-19,11:30,12:30,1.0,75,Training,Approved,9,No,53,Used,0
+RES-0298,Organization,Auditorium,2026-04-29,2026-05-10,17:30,21:30,4.0,30,Class,Approved,11,Yes,27,Used,0
+RES-0299,Faculty,Classroom,2026-01-07,2026-01-14,16:30,19:30,3.0,93,Training,Approved,7,No,0,No-Show,0
+RES-0300,Student,Multimedia Room,2026-01-27,2026-02-02,16:00,18:00,2.0,67,Seminar,Rejected,6,No,0,Cancelled,1
+RES-0301,Organization,Classroom,2026-08-24,2026-08-31,16:30,19:30,3.0,52,Meeting,Approved,7,No,43,Used,0
+RES-0302,Faculty,Multimedia Room,2026-06-01,2026-06-19,07:30,10:30,3.0,21,Meeting,Approved,18,No,15,Used,0
+RES-0303,Staff,Conference Room,2026-04-26,2026-05-04,10:00,11:00,1.0,22,Seminar,Approved,8,No,14,Used,0
+RES-0304,Faculty,Multimedia Room,2026-03-22,2026-04-04,08:30,12:30,4.0,31,Training,Approved,13,No,29,Used,0
+RES-0305,Student,Laboratory,2026-07-31,2026-08-22,17:00,18:00,1.0,46,Seminar,Approved,22,Yes,45,Used,0
+RES-0306,Staff,Auditorium,2026-06-23,2026-07-02,11:00,12:00,1.0,56,Meeting,Approved,9,No,45,Used,0
+RES-0307,Student,Multimedia Room,2026-07-25,2026-08-19,09:00,10:00,1.0,12,Meeting,Approved,25,No,0,No-Show,0
+RES-0308,Faculty,Laboratory,2026-04-06,2026-04-27,18:00,20:00,2.0,80,Training,Approved,21,Yes,0,Cancelled,0
+RES-0309,Student,Laboratory,2026-07-27,2026-07-31,08:30,09:30,1.0,10,Training,Rejected,4,No,0,Cancelled,0
+RES-0310,Faculty,Auditorium,2026-07-30,2026-08-22,14:30,15:30,1.0,53,Training,Approved,23,No,36,Used,0
+RES-0311,Faculty,Conference Room,2026-04-25,2026-05-23,09:00,11:00,2.0,84,Seminar,Approved,28,No,67,Used,0
+RES-0312,Staff,Classroom,2026-03-13,2026-03-25,09:30,10:30,1.0,87,Meeting,Approved,12,No,74,Used,0
+RES-0313,Student,Multimedia Room,2026-05-03,2026-05-20,15:30,17:30,2.0,69,Seminar,Approved,17,No,42,Used,0
+RES-0314,Faculty,Classroom,2026-01-15,2026-02-09,15:30,19:30,4.0,79,Seminar,Rejected,25,No,0,Cancelled,5
+RES-0315,Student,Laboratory,2026-03-10,2026-03-27,07:00,09:00,2.0,54,Class,Approved,17,No,0,Cancelled,5
+RES-0316,Faculty,Laboratory,2026-03-23,2026-04-17,13:00,16:00,3.0,94,Event,Approved,25,No,61,Used,0
+RES-0317,Faculty,Multimedia Room,2026-03-21,2026-03-26,15:00,16:00,1.0,12,Event,Approved,5,No,9,Used,0
+RES-0318,Student,Conference Room,2026-02-21,2026-03-18,09:30,12:30,3.0,27,Event,Rejected,25,No,0,Cancelled,10
+RES-0319,Student,Classroom,2026-05-31,2026-06-22,09:00,13:00,4.0,72,Class,Approved,22,No,0,No-Show,0
+RES-0320,Organization,Multimedia Room,2026-01-26,2026-02-05,11:30,12:30,1.0,25,Event,Approved,10,No,21,Used,0
+RES-0321,Staff,Conference Room,2026-07-01,2026-07-31,16:30,17:30,1.0,90,Class,Approved,30,No,65,Used,0
+RES-0322,Organization,Laboratory,2026-07-06,2026-07-06,17:30,21:30,4.0,77,Class,Approved,0,Yes,74,Used,0
+RES-0323,Faculty,Auditorium,2026-08-28,2026-09-12,09:30,12:30,3.0,14,Meeting,Approved,15,No,0,No-Show,0
+RES-0324,Faculty,Classroom,2026-04-25,2026-04-25,11:00,12:00,1.0,93,Seminar,Approved,0,No,59,Used,0
+RES-0325,Student,Classroom,2026-04-23,2026-05-16,14:00,16:00,2.0,68,Training,Approved,23,No,51,Used,0
+RES-0326,Staff,Auditorium,2026-02-11,2026-02-25,08:00,09:30,1.5,7,Class,Approved,14,No,0,No-Show,0
+RES-0327,Student,Conference Room,2026-08-16,2026-08-28,09:00,11:00,2.0,16,Class,Approved,12,No,0,No-Show,0
+RES-0328,Staff,Classroom,2026-08-30,2026-09-19,09:30,10:30,1.0,11,Training,Approved,20,No,7,Used,0
+RES-0329,Organization,Conference Room,2026-03-02,2026-03-05,07:30,09:30,2.0,75,Seminar,Approved,3,No,55,Used,0
+RES-0330,Staff,Classroom,2026-07-30,2026-08-20,18:30,19:30,1.0,17,Seminar,Approved,21,Yes,12,Used,0
+RES-0331,Student,Multimedia Room,2026-03-20,2026-04-14,14:30,16:30,2.0,89,Meeting,Approved,25,No,67,Used,0
+RES-0332,Organization,Multimedia Room,2026-02-17,2026-03-03,07:30,09:30,2.0,64,Seminar,Approved,14,No,0,Cancelled,9
+RES-0333,Student,Laboratory,2026-01-22,2026-02-12,13:30,17:30,4.0,80,Meeting,Approved,21,No,60,Used,0
+RES-0334,Staff,Auditorium,2026-05-27,2026-06-24,10:30,12:00,1.5,15,Training,Approved,28,No,0,Cancelled,1
+RES-0335,Faculty,Classroom,2026-02-14,2026-03-16,09:00,13:00,4.0,29,Training,Approved,30,No,28,Used,0
+RES-0336,Staff,Laboratory,2026-08-02,2026-08-21,11:30,14:30,3.0,13,Class,Approved,19,No,10,Used,0
+RES-0337,Organization,Auditorium,2026-08-23,2026-09-19,07:30,08:30,1.0,58,Training,Approved,27,No,48,Used,0
+RES-0338,Student,Classroom,2026-07-19,2026-07-22,11:30,13:30,2.0,38,Event,Approved,3,No,32,Used,0
+RES-0339,Student,Laboratory,2026-04-14,2026-04-18,17:30,18:30,1.0,55,Seminar,Approved,4,Yes,38,Used,0
+RES-0340,Staff,Conference Room,2026-01-06,2026-01-16,11:30,13:00,1.5,67,Seminar,Approved,10,No,66,Used,0
+RES-0341,Faculty,Laboratory,2026-09-07,2026-09-30,15:30,17:00,1.5,98,Seminar,Approved,23,No,66,Used,0
+RES-0342,Faculty,Multimedia Room,2026-07-14,2026-07-30,13:00,15:00,2.0,25,Training,Approved,16,No,19,Used,0
+RES-0343,Student,Laboratory,2026-08-13,2026-09-08,10:00,11:00,1.0,9,Class,Approved,26,No,0,No-Show,0
+RES-0344,Faculty,Conference Room,2026-07-30,2026-08-13,16:30,19:30,3.0,20,Seminar,Approved,14,No,15,Used,0
+RES-0345,Staff,Laboratory,2026-05-31,2026-06-17,13:30,14:30,1.0,38,Training,Approved,17,No,27,Used,0
+RES-0346,Staff,Classroom,2026-08-07,2026-08-25,10:00,13:00,3.0,33,Class,Approved,18,No,25,Used,0
+RES-0347,Student,Classroom,2026-08-22,2026-08-26,18:00,20:00,2.0,6,Training,Approved,4,Yes,5,Used,0
+RES-0348,Organization,Multimedia Room,2026-08-07,2026-08-18,15:30,16:30,1.0,64,Training,Approved,11,No,54,Used,0
+RES-0349,Student,Classroom,2026-06-19,2026-07-19,13:30,15:00,1.5,92,Event,Approved,30,No,91,Used,0
+RES-0350,Organization,Conference Room,2026-06-17,2026-07-09,18:30,19:30,1.0,24,Seminar,Approved,22,Yes,14,Used,0
+RES-0351,Staff,Conference Room,2026-07-04,2026-07-04,18:30,20:00,1.5,38,Class,Rejected,0,Yes,0,Cancelled,1
+RES-0352,Staff,Classroom,2026-07-01,2026-07-19,10:30,13:30,3.0,96,Event,Approved,18,No,87,Used,0
+RES-0353,Organization,Auditorium,2026-08-05,2026-08-10,18:00,19:30,1.5,17,Seminar,Approved,5,Yes,15,Used,0
+RES-0354,Faculty,Conference Room,2026-02-26,2026-03-09,10:30,12:30,2.0,47,Meeting,Approved,11,No,36,Used,0
+RES-0355,Student,Multimedia Room,2026-08-10,2026-08-30,17:00,19:00,2.0,29,Meeting,Approved,20,Yes,0,Cancelled,12
+RES-0356,Organization,Multimedia Room,2026-08-11,2026-09-07,09:00,10:00,1.0,48,Meeting,Approved,27,No,46,Used,0
+RES-0357,Staff,Laboratory,2026-08-09,2026-08-31,09:00,11:00,2.0,47,Seminar,Approved,22,No,40,Used,0
+RES-0358,Student,Multimedia Room,2026-02-23,2026-03-19,09:00,11:00,2.0,16,Seminar,Approved,24,No,12,Used,0
+RES-0359,Staff,Multimedia Room,2026-01-02,2026-01-03,16:00,19:00,3.0,52,Training,Rejected,1,No,0,Cancelled,1
+RES-0360,Faculty,Classroom,2026-06-10,2026-07-03,10:00,13:00,3.0,49,Meeting,Approved,23,No,39,Used,0
+RES-0361,Organization,Laboratory,2026-07-30,2026-07-31,11:30,13:30,2.0,98,Meeting,Approved,1,No,75,Used,0
+RES-0362,Faculty,Conference Room,2026-04-02,2026-04-26,10:00,14:00,4.0,56,Training,Approved,24,No,55,Used,0
+RES-0363,Faculty,Classroom,2026-05-10,2026-05-15,08:30,11:30,3.0,88,Event,Approved,5,No,75,Used,0
+RES-0364,Student,Auditorium,2026-06-19,2026-06-22,18:00,19:00,1.0,93,Meeting,Approved,3,Yes,60,Used,0
+RES-0365,Organization,Multimedia Room,2026-02-22,2026-03-16,18:00,19:30,1.5,58,Class,Approved,22,Yes,41,Used,0
+RES-0366,Faculty,Multimedia Room,2026-05-11,2026-06-03,17:00,18:30,1.5,19,Meeting,Approved,23,Yes,16,Used,0
+RES-0367,Organization,Auditorium,2026-04-02,2026-04-24,14:30,15:30,1.0,10,Class,Approved,22,No,0,No-Show,0
+RES-0368,Staff,Conference Room,2026-01-01,2026-01-01,18:00,19:00,1.0,78,Class,Approved,0,Yes,49,Used,0
+RES-0369,Student,Classroom,2026-06-14,2026-06-21,15:30,17:00,1.5,64,Seminar,Approved,7,No,0,Cancelled,0
+RES-0370,Organization,Conference Room,2026-04-20,2026-05-13,08:00,12:00,4.0,10,Seminar,Approved,23,No,8,Used,0
+RES-0371,Organization,Conference Room,2026-09-02,2026-09-21,11:00,12:30,1.5,48,Training,Approved,19,No,47,Used,0
+RES-0372,Organization,Multimedia Room,2026-07-24,2026-08-06,18:00,19:00,1.0,21,Training,Approved,13,Yes,20,Used,0
+RES-0373,Faculty,Classroom,2026-08-22,2026-09-09,15:30,16:30,1.0,83,Training,Approved,18,No,50,Used,0
+RES-0374,Faculty,Multimedia Room,2026-01-29,2026-02-26,14:30,15:30,1.0,13,Training,Approved,28,No,11,Used,0
+RES-0375,Faculty,Conference Room,2026-05-14,2026-06-05,17:00,19:00,2.0,89,Event,Approved,22,Yes,77,Used,0
+RES-0376,Staff,Laboratory,2026-08-17,2026-09-05,07:00,10:00,3.0,25,Event,Approved,19,No,19,Used,0
+RES-0377,Faculty,Classroom,2026-03-24,2026-03-31,13:30,14:30,1.0,69,Training,Approved,7,No,52,Used,0
+RES-0378,Faculty,Classroom,2026-04-24,2026-05-19,17:30,18:30,1.0,68,Training,Approved,25,Yes,54,Used,0
+RES-0379,Student,Classroom,2026-04-16,2026-04-17,16:00,20:00,4.0,16,Training,Approved,1,No,0,No-Show,0
+RES-0380,Organization,Auditorium,2026-02-22,2026-03-14,18:30,20:00,1.5,51,Event,Approved,20,Yes,0,Cancelled,14
+RES-0381,Organization,Auditorium,2026-06-03,2026-06-18,18:30,21:30,3.0,62,Event,Approved,15,Yes,0,Cancelled,7
+RES-0382,Student,Conference Room,2026-08-01,2026-08-21,11:30,14:30,3.0,18,Seminar,Approved,20,No,11,Used,0
+RES-0383,Staff,Classroom,2026-06-06,2026-06-12,10:00,14:00,4.0,55,Seminar,Approved,6,No,0,Cancelled,1
+RES-0384,Organization,Classroom,2026-01-12,2026-02-10,18:00,22:00,4.0,62,Training,Approved,29,Yes,49,Used,0
+RES-0385,Staff,Classroom,2026-07-08,2026-07-09,16:30,20:30,4.0,79,Event,Approved,1,No,76,Used,0
+RES-0386,Faculty,Auditorium,2026-07-07,2026-08-02,09:00,11:00,2.0,89,Class,Approved,26,No,0,Cancelled,16
+RES-0387,Staff,Multimedia Room,2026-08-23,2026-09-14,10:30,12:30,2.0,48,Event,Rejected,22,No,0,Cancelled,14
+RES-0388,Faculty,Laboratory,2026-06-04,2026-06-26,16:30,20:30,4.0,94,Training,Approved,22,No,84,Used,0
+RES-0389,Faculty,Laboratory,2026-06-09,2026-07-01,11:30,14:30,3.0,21,Class,Rejected,22,No,0,Cancelled,20
+RES-0390,Faculty,Auditorium,2026-06-27,2026-07-17,13:00,17:00,4.0,50,Event,Approved,20,No,48,Used,0
+RES-0391,Staff,Auditorium,2026-08-13,2026-09-09,14:00,16:00,2.0,18,Seminar,Approved,27,No,15,Used,0
+RES-0392,Faculty,Conference Room,2026-03-15,2026-04-05,11:00,15:00,4.0,12,Class,Approved,21,No,10,Used,0
+RES-0393,Student,Conference Room,2026-01-27,2026-02-15,18:00,21:00,3.0,87,Training,Approved,19,Yes,79,Used,0
+RES-0394,Organization,Classroom,2026-04-10,2026-04-23,18:30,20:30,2.0,11,Training,Approved,13,Yes,9,Used,0
+RES-0395,Staff,Laboratory,2026-07-13,2026-07-31,16:00,20:00,4.0,97,Seminar,Rejected,18,No,0,Cancelled,9
+RES-0396,Staff,Laboratory,2026-02-17,2026-03-19,09:00,11:00,2.0,10,Meeting,Approved,30,No,6,Used,0
+RES-0397,Organization,Classroom,2026-04-30,2026-05-22,09:00,10:00,1.0,46,Seminar,Approved,22,No,0,Cancelled,20
+RES-0398,Organization,Multimedia Room,2026-05-21,2026-06-01,08:30,10:30,2.0,33,Event,Rejected,11,No,0,Cancelled,8
+RES-0399,Student,Auditorium,2026-04-17,2026-05-04,16:30,17:30,1.0,49,Class,Approved,17,No,35,Used,0
+RES-0400,Organization,Conference Room,2026-09-01,2026-09-25,17:30,19:30,2.0,88,Class,Approved,24,Yes,68,Used,0

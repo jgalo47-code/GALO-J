@@ -1,0 +1,401 @@
+Reservation_ID,User_Type,Facility_Type,Reservation_Date,Event_Date,Start_Time,End_Time,Duration_Hours,Participants,Purpose,Approval_Status,Days_Before_Event,After_Office_Hours,Actual_Attendance,Usage_Status,Cancellation_Days_Before,Reservation_Outcome,Lead_Time_Category
+Res-0001,Student,Classroom,2026-03-04,2026-03-11,09:00,12:00,3.0,99.0,Seminar,Approved,7.0,No,76.0,Used,0.0,Completed,Short Lead
+Res-0002,Student,Classroom,2026-03-01,2026-03-17,17:00,19:00,2.0,30.0,Class,Approved,16.0,Yes,23.0,Used,0.0,Completed,Early Booking
+Res-0003,Staff,Auditorium,2026-07-27,2026-08-23,07:00,10:00,3.0,59.0,Seminar,Approved,27.0,No,57.0,Used,0.0,Completed,Early Booking
+Res-0004,Organization,Classroom,2026-04-08,2026-04-11,13:30,15:30,2.0,38.0,Meeting,Approved,3.0,No,30.0,Used,0.0,Completed,Short Lead
+Res-0005,Staff,Classroom,2026-03-17,2026-04-12,18:30,20:30,2.0,29.0,Event,Approved,26.0,Yes,20.0,Used,0.0,Completed,Early Booking
+Res-0006,Organization,Classroom,2026-08-10,2026-08-13,14:30,16:30,2.0,86.0,Class,Approved,3.0,No,63.0,Used,0.0,Completed,Short Lead
+Res-0007,Organization,Classroom,2026-06-12,2026-06-17,16:00,17:00,1.0,64.0,Event,Approved,5.0,No,0.0,No-Show,0.0,Not Completed,Short Lead
+Res-0008,Faculty,Conference Room,2026-02-28,2026-03-26,07:30,09:30,2.0,39.0,Meeting,Approved,26.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0009,Organization,Laboratory,2026-04-12,2026-05-10,18:30,19:30,1.0,38.0,Training,Approved,28.0,Yes,30.0,Used,0.0,Completed,Early Booking
+Res-0010,Staff,Auditorium,2026-04-03,2026-04-10,09:30,10:30,1.0,11.0,Training,Approved,7.0,No,7.0,Used,0.0,Completed,Short Lead
+Res-0011,Staff,Auditorium,2026-04-09,2026-04-21,17:30,19:30,2.0,37.0,Meeting,Rejected,12.0,Yes,0.0,Cancelled,0.0,Not Completed,Medium Lead
+Res-0012,Student,Auditorium,2026-07-16,2026-08-05,13:00,14:30,1.5,60.0,Seminar,Approved,20.0,No,53.0,Used,0.0,Completed,Early Booking
+Res-0013,Organization,Auditorium,2026-05-10,2026-06-08,08:30,12:30,4.0,86.0,Class,Approved,29.0,No,64.0,Used,0.0,Completed,Early Booking
+Res-0014,Faculty,Auditorium,2026-08-24,2026-08-24,17:30,19:30,2.0,7.0,Event,Approved,0.0,Yes,6.0,Used,0.0,Completed,Last Minute
+Res-0015,Organization,Laboratory,2026-03-03,2026-03-31,17:00,18:00,1.0,98.0,Meeting,Approved,28.0,Yes,88.0,Used,0.0,Completed,Early Booking
+Res-0016,Faculty,Laboratory,2026-08-31,2026-09-17,09:30,11:30,2.0,82.0,Training,Approved,17.0,No,66.0,Used,0.0,Completed,Early Booking
+Res-0017,Faculty,Conference Room,2026-06-21,2026-07-11,13:30,15:30,2.0,62.0,Training,Approved,20.0,No,45.0,Used,0.0,Completed,Early Booking
+Res-0018,Faculty,Auditorium,2026-01-02,2026-01-04,18:00,19:00,1.0,13.0,Class,Rejected,2.0,Yes,0.0,Cancelled,1.0,Not Completed,Last Minute
+Res-0019,Student,Auditorium,2026-03-13,2026-04-03,15:00,17:00,2.0,21.0,Class,Approved,21.0,No,0.0,Cancelled,18.0,Not Completed,Early Booking
+Res-0020,Staff,Laboratory,2026-07-26,2026-08-08,10:00,11:00,1.0,89.0,Training,Approved,13.0,No,70.0,Used,0.0,Completed,Medium Lead
+Res-0021,Student,Classroom,2026-04-14,2026-05-07,13:00,14:00,1.0,29.0,Meeting,Approved,23.0,No,22.0,Used,0.0,Completed,Early Booking
+Res-0022,Organization,Multimedia Room,2026-08-12,2026-09-10,08:30,12:30,4.0,75.0,Class,Approved,29.0,No,61.0,Used,0.0,Completed,Early Booking
+Res-0023,Student,Classroom,2026-02-12,2026-02-25,15:30,16:30,1.0,56.0,Class,Rejected,13.0,No,0.0,Cancelled,2.0,Not Completed,Medium Lead
+Res-0024,Staff,Classroom,2026-03-09,2026-04-07,15:30,17:30,2.0,94.0,Training,Rejected,29.0,No,0.0,Cancelled,25.0,Not Completed,Early Booking
+Res-0025,Staff,Laboratory,2026-03-17,2026-03-23,07:00,10:00,3.0,45.0,Class,Approved,6.0,No,36.0,Used,0.0,Completed,Short Lead
+Res-0026,Faculty,Classroom,2026-01-21,2026-02-17,09:00,11:00,2.0,13.0,Event,Approved,27.0,No,8.0,Used,0.0,Completed,Early Booking
+Res-0027,Faculty,Auditorium,2026-01-11,2026-01-30,08:30,11:30,3.0,79.0,Event,Approved,19.0,No,55.0,Used,0.0,Completed,Early Booking
+Res-0028,Organization,Laboratory,2026-04-12,2026-04-16,18:30,20:30,2.0,45.0,Seminar,Rejected,4.0,Yes,0.0,Cancelled,0.0,Not Completed,Short Lead
+Res-0029,Student,Multimedia Room,2026-05-25,2026-05-28,08:00,10:00,2.0,38.0,Event,Approved,3.0,No,23.0,Used,0.0,Completed,Short Lead
+Res-0030,Faculty,Conference Room,2026-02-10,2026-02-24,16:30,18:30,2.0,88.0,Seminar,Approved,14.0,No,72.0,Used,0.0,Completed,Medium Lead
+Res-0031,Student,Laboratory,2026-01-30,2026-02-27,08:00,09:30,1.5,41.0,Seminar,Approved,28.0,No,27.0,Used,0.0,Completed,Early Booking
+Res-0032,Organization,Auditorium,2026-03-06,2026-04-03,07:00,10:00,3.0,59.0,Training,Approved,28.0,No,43.0,Used,0.0,Completed,Early Booking
+Res-0033,Faculty,Conference Room,2026-07-09,2026-07-23,16:30,18:30,2.0,6.0,Class,Approved,14.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0034,Faculty,Auditorium,2026-08-02,2026-08-13,17:00,19:00,2.0,21.0,Meeting,Approved,11.0,Yes,20.0,Used,0.0,Completed,Medium Lead
+Res-0035,Student,Conference Room,2026-06-24,2026-07-01,18:00,19:30,1.5,76.0,Class,Approved,7.0,Yes,64.0,Used,0.0,Completed,Short Lead
+Res-0036,Faculty,Laboratory,2026-09-07,2026-10-02,09:30,10:30,1.0,27.0,Class,Approved,25.0,No,26.0,Used,0.0,Completed,Early Booking
+Res-0037,Faculty,Conference Room,2026-07-21,2026-08-12,08:30,12:30,4.0,9.0,Class,Approved,22.0,No,8.0,Used,0.0,Completed,Early Booking
+Res-0038,Staff,Conference Room,2026-07-30,2026-08-24,10:00,11:00,1.0,89.0,Seminar,Approved,25.0,No,84.0,Used,0.0,Completed,Early Booking
+Res-0039,Organization,Conference Room,2026-04-13,2026-05-04,16:30,17:30,1.0,19.0,Event,Approved,21.0,No,15.0,Used,0.0,Completed,Early Booking
+Res-0040,Organization,Classroom,2026-06-02,2026-06-15,13:30,15:30,2.0,82.0,Meeting,Rejected,13.0,No,0.0,Cancelled,1.0,Not Completed,Medium Lead
+Res-0041,Staff,Auditorium,2026-03-07,2026-03-08,14:00,16:00,2.0,73.0,Class,Approved,1.0,No,0.0,No-Show,0.0,Not Completed,Last Minute
+Res-0042,Faculty,Conference Room,2026-01-18,2026-02-17,18:30,20:30,2.0,45.0,Training,Approved,30.0,Yes,43.0,Used,0.0,Completed,Early Booking
+Res-0043,Organization,Multimedia Room,2026-04-14,2026-05-06,11:00,12:00,1.0,58.0,Seminar,Approved,22.0,No,52.0,Used,0.0,Completed,Early Booking
+Res-0044,Faculty,Auditorium,2026-03-19,2026-03-31,16:00,17:30,1.5,41.0,Event,Approved,12.0,No,0.0,Cancelled,9.0,Not Completed,Medium Lead
+Res-0045,Organization,Multimedia Room,2026-04-24,2026-05-15,10:30,14:30,4.0,99.0,Training,Approved,21.0,No,79.0,Used,0.0,Completed,Early Booking
+Res-0046,Organization,Classroom,2026-06-22,2026-07-01,10:00,11:00,1.0,8.0,Class,Approved,9.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0047,Student,Multimedia Room,2026-08-15,2026-09-04,17:00,20:00,3.0,94.0,Training,Approved,20.0,Yes,61.0,Used,0.0,Completed,Early Booking
+Res-0048,Student,Classroom,2026-02-26,2026-03-03,16:30,17:30,1.0,76.0,Training,Approved,5.0,No,0.0,Cancelled,3.0,Not Completed,Short Lead
+Res-0049,Faculty,Multimedia Room,2026-05-24,2026-06-12,13:30,15:30,2.0,97.0,Event,Approved,19.0,No,93.0,Used,0.0,Completed,Early Booking
+Res-0050,Staff,Laboratory,2026-04-26,2026-05-04,10:30,14:30,4.0,71.0,Training,Approved,8.0,No,55.0,Used,0.0,Completed,Medium Lead
+Res-0051,Organization,Laboratory,2026-03-27,2026-04-06,16:00,17:00,1.0,24.0,Seminar,Approved,10.0,No,21.0,Used,0.0,Completed,Medium Lead
+Res-0052,Student,Multimedia Room,2026-03-26,2026-04-12,15:30,16:30,1.0,31.0,Training,Approved,17.0,No,28.0,Used,0.0,Completed,Early Booking
+Res-0053,Student,Auditorium,2026-05-03,2026-05-03,13:30,17:30,4.0,54.0,Training,Approved,0.0,No,0.0,No-Show,0.0,Not Completed,Last Minute
+Res-0054,Staff,Auditorium,2026-07-24,2026-08-12,10:30,11:30,1.0,39.0,Event,Approved,19.0,No,28.0,Used,0.0,Completed,Early Booking
+Res-0055,Staff,Laboratory,2026-08-24,2026-08-28,17:00,19:00,2.0,80.0,Training,Approved,4.0,Yes,68.0,Used,0.0,Completed,Short Lead
+Res-0056,Faculty,Multimedia Room,2026-01-13,2026-01-21,14:30,15:30,1.0,63.0,Class,Approved,8.0,No,0.0,Cancelled,6.0,Not Completed,Medium Lead
+Res-0057,Organization,Multimedia Room,2026-08-02,2026-08-04,15:00,18:00,3.0,74.0,Seminar,Approved,2.0,No,0.0,No-Show,0.0,Not Completed,Last Minute
+Res-0058,Faculty,Classroom,2026-07-13,2026-07-13,10:00,14:00,4.0,7.0,Meeting,Approved,0.0,No,5.0,Used,0.0,Completed,Last Minute
+Res-0059,Student,Auditorium,2026-04-30,2026-05-22,11:30,12:30,1.0,82.0,Class,Approved,22.0,No,52.0,Used,0.0,Completed,Early Booking
+Res-0060,Faculty,Conference Room,2026-05-29,2026-05-29,11:30,13:30,2.0,96.0,Meeting,Approved,0.0,No,89.0,Used,0.0,Completed,Last Minute
+Res-0061,Faculty,Classroom,2026-08-06,2026-08-27,17:00,21:00,4.0,77.0,Seminar,Approved,21.0,Yes,59.0,Used,0.0,Completed,Early Booking
+Res-0062,Organization,Classroom,2026-06-15,2026-06-25,07:30,11:30,4.0,67.0,Event,Approved,10.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0063,Staff,Laboratory,2026-02-15,2026-03-10,16:30,18:30,2.0,73.0,Training,Approved,23.0,No,67.0,Used,0.0,Completed,Early Booking
+Res-0064,Organization,Conference Room,2026-08-01,2026-08-30,08:30,10:30,2.0,36.0,Class,Approved,29.0,No,31.0,Used,0.0,Completed,Early Booking
+Res-0065,Organization,Classroom,2026-08-06,2026-08-16,09:30,10:30,1.0,50.0,Training,Approved,10.0,No,47.0,Used,0.0,Completed,Medium Lead
+Res-0066,Organization,Auditorium,2026-05-13,2026-06-12,10:00,11:00,1.0,97.0,Meeting,Approved,30.0,No,67.0,Used,0.0,Completed,Early Booking
+Res-0067,Staff,Multimedia Room,2026-07-22,2026-07-22,08:30,09:30,1.0,56.0,Training,Approved,0.0,No,46.0,Used,0.0,Completed,Last Minute
+Res-0068,Staff,Auditorium,2026-03-30,2026-04-12,16:30,18:00,1.5,94.0,Event,Approved,13.0,No,65.0,Used,0.0,Completed,Medium Lead
+Res-0069,Faculty,Conference Room,2026-07-10,2026-07-27,09:00,10:00,1.0,99.0,Meeting,Approved,17.0,No,98.0,Used,0.0,Completed,Early Booking
+Res-0070,Organization,Classroom,2026-03-17,2026-03-24,13:00,14:30,1.5,6.0,Class,Approved,7.0,No,3.0,Used,0.0,Completed,Short Lead
+Res-0071,Student,Auditorium,2026-06-28,2026-07-28,09:30,10:30,1.0,6.0,Seminar,Approved,30.0,No,4.0,Used,0.0,Completed,Early Booking
+Res-0072,Faculty,Classroom,2026-08-29,2026-09-25,15:00,19:00,4.0,13.0,Seminar,Approved,27.0,No,11.0,Used,0.0,Completed,Early Booking
+Res-0073,Student,Laboratory,2026-07-27,2026-08-14,11:00,12:00,1.0,20.0,Class,Approved,18.0,No,16.0,Used,0.0,Completed,Early Booking
+Res-0074,Faculty,Auditorium,2026-04-26,2026-05-25,15:30,19:30,4.0,80.0,Training,Rejected,29.0,No,0.0,Cancelled,9.0,Not Completed,Early Booking
+Res-0075,Student,Auditorium,2026-08-31,2026-09-24,10:00,11:30,1.5,89.0,Meeting,Approved,24.0,No,73.0,Used,0.0,Completed,Early Booking
+Res-0076,Faculty,Classroom,2026-04-26,2026-05-18,17:30,19:00,1.5,9.0,Training,Approved,22.0,Yes,7.0,Used,0.0,Completed,Early Booking
+Res-0077,Staff,Classroom,2026-08-25,2026-09-02,18:00,20:00,2.0,19.0,Class,Approved,8.0,Yes,18.0,Used,0.0,Completed,Medium Lead
+Res-0078,Faculty,Classroom,2026-02-12,2026-03-09,11:30,13:30,2.0,20.0,Meeting,Approved,25.0,No,15.0,Used,0.0,Completed,Early Booking
+Res-0079,Organization,Auditorium,2026-05-07,2026-05-21,08:00,10:00,2.0,99.0,Event,Approved,14.0,No,63.0,Used,0.0,Completed,Medium Lead
+Res-0080,Student,Conference Room,2026-01-11,2026-02-04,09:30,11:30,2.0,88.0,Event,Approved,24.0,No,87.0,Used,0.0,Completed,Early Booking
+Res-0081,Staff,Multimedia Room,2026-05-01,2026-05-12,14:30,16:00,1.5,90.0,Meeting,Approved,11.0,No,68.0,Used,0.0,Completed,Medium Lead
+Res-0082,Staff,Conference Room,2026-07-28,2026-08-21,16:00,18:00,2.0,16.0,Training,Approved,24.0,No,15.0,Used,0.0,Completed,Early Booking
+Res-0083,Staff,Auditorium,2026-06-18,2026-07-15,16:30,18:30,2.0,11.0,Meeting,Approved,27.0,No,9.0,Used,0.0,Completed,Early Booking
+Res-0084,Staff,Classroom,2026-03-10,2026-03-27,09:30,11:30,2.0,94.0,Class,Approved,17.0,No,80.0,Used,0.0,Completed,Early Booking
+Res-0085,Faculty,Laboratory,2026-05-22,2026-05-22,16:30,17:30,1.0,33.0,Seminar,Rejected,0.0,No,0.0,Cancelled,0.0,Not Completed,Last Minute
+Res-0086,Staff,Classroom,2026-05-08,2026-06-06,11:30,13:30,2.0,66.0,Class,Rejected,29.0,No,0.0,Cancelled,7.0,Not Completed,Early Booking
+Res-0087,Staff,Auditorium,2026-04-09,2026-04-15,17:00,21:00,4.0,13.0,Class,Approved,6.0,Yes,0.0,Cancelled,3.0,Not Completed,Short Lead
+Res-0088,Organization,Auditorium,2026-07-30,2026-07-30,11:30,15:30,4.0,80.0,Seminar,Approved,0.0,No,75.0,Used,0.0,Completed,Last Minute
+Res-0089,Staff,Auditorium,2026-03-30,2026-04-09,16:30,18:30,2.0,46.0,Training,Approved,10.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0090,Faculty,Auditorium,2026-03-01,2026-03-28,14:00,15:30,1.5,100.0,Training,Approved,27.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0091,Staff,Multimedia Room,2026-05-07,2026-06-06,07:00,09:00,2.0,80.0,Class,Approved,30.0,No,75.0,Used,0.0,Completed,Early Booking
+Res-0092,Student,Auditorium,2026-01-04,2026-01-27,09:30,13:30,4.0,88.0,Training,Rejected,23.0,No,0.0,Cancelled,2.0,Not Completed,Early Booking
+Res-0093,Staff,Conference Room,2026-06-09,2026-07-01,14:00,18:00,4.0,47.0,Seminar,Approved,22.0,No,0.0,Cancelled,12.0,Not Completed,Early Booking
+Res-0094,Organization,Multimedia Room,2026-01-10,2026-01-29,08:00,11:00,3.0,92.0,Event,Rejected,19.0,No,0.0,Cancelled,7.0,Not Completed,Early Booking
+Res-0095,Student,Multimedia Room,2026-07-14,2026-08-03,08:30,09:30,1.0,93.0,Meeting,Approved,20.0,No,67.0,Used,0.0,Completed,Early Booking
+Res-0096,Student,Conference Room,2026-04-06,2026-04-19,09:00,11:00,2.0,57.0,Seminar,Approved,13.0,No,0.0,Cancelled,2.0,Not Completed,Medium Lead
+Res-0097,Faculty,Classroom,2026-08-11,2026-08-23,17:00,19:00,2.0,79.0,Event,Approved,12.0,Yes,55.0,Used,0.0,Completed,Medium Lead
+Res-0098,Organization,Classroom,2026-08-19,2026-08-28,18:00,19:00,1.0,61.0,Training,Rejected,9.0,Yes,0.0,Cancelled,9.0,Not Completed,Medium Lead
+Res-0099,Organization,Multimedia Room,2026-04-27,2026-05-24,11:00,13:00,2.0,66.0,Seminar,Approved,27.0,No,49.0,Used,0.0,Completed,Early Booking
+Res-0100,Organization,Conference Room,2026-09-08,2026-10-04,18:30,20:00,1.5,6.0,Meeting,Approved,26.0,Yes,5.0,Used,0.0,Completed,Early Booking
+Res-0101,Student,Auditorium,2026-08-02,2026-08-30,11:00,13:00,2.0,50.0,Training,Approved,28.0,No,35.0,Used,0.0,Completed,Early Booking
+Res-0102,Faculty,Classroom,2026-03-21,2026-04-15,15:00,17:00,2.0,51.0,Meeting,Approved,25.0,No,36.0,Used,0.0,Completed,Early Booking
+Res-0103,Staff,Laboratory,2026-02-03,2026-02-28,16:30,18:30,2.0,69.0,Class,Rejected,25.0,No,0.0,Cancelled,5.0,Not Completed,Early Booking
+Res-0104,Organization,Multimedia Room,2026-07-11,2026-08-07,13:00,15:00,2.0,14.0,Seminar,Approved,27.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0105,Staff,Auditorium,2026-01-24,2026-02-18,14:00,15:30,1.5,73.0,Seminar,Approved,25.0,No,65.0,Used,0.0,Completed,Early Booking
+Res-0106,Organization,Auditorium,2026-07-30,2026-08-19,13:00,16:00,3.0,34.0,Training,Approved,20.0,No,33.0,Used,0.0,Completed,Early Booking
+Res-0107,Organization,Auditorium,2026-06-15,2026-06-17,18:30,21:30,3.0,43.0,Class,Approved,2.0,Yes,26.0,Used,0.0,Completed,Last Minute
+Res-0108,Student,Conference Room,2026-01-30,2026-02-02,10:00,12:00,2.0,63.0,Training,Approved,3.0,No,0.0,No-Show,0.0,Not Completed,Short Lead
+Res-0109,Staff,Auditorium,2026-08-15,2026-08-28,18:00,22:00,4.0,67.0,Class,Approved,13.0,Yes,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0110,Organization,Classroom,2026-02-25,2026-03-11,15:00,19:00,4.0,51.0,Seminar,Approved,14.0,No,41.0,Used,0.0,Completed,Medium Lead
+Res-0111,Organization,Classroom,2026-03-12,2026-03-18,08:30,09:30,1.0,89.0,Training,Approved,6.0,No,87.0,Used,0.0,Completed,Short Lead
+Res-0112,Student,Conference Room,2026-02-02,2026-02-27,17:00,18:00,1.0,75.0,Class,Approved,25.0,Yes,71.0,Used,0.0,Completed,Early Booking
+Res-0113,Organization,Laboratory,2026-01-01,2026-01-09,09:00,11:00,2.0,37.0,Event,Approved,8.0,No,35.0,Used,0.0,Completed,Medium Lead
+Res-0114,Faculty,Classroom,2026-07-22,2026-08-16,10:30,11:30,1.0,27.0,Seminar,Approved,25.0,No,20.0,Used,0.0,Completed,Early Booking
+Res-0115,Student,Classroom,2026-04-25,2026-05-19,13:00,15:00,2.0,69.0,Training,Approved,24.0,No,61.0,Used,0.0,Completed,Early Booking
+Res-0116,Organization,Multimedia Room,2026-01-16,2026-01-31,14:30,17:30,3.0,18.0,Meeting,Approved,15.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0117,Student,Classroom,2026-06-05,2026-06-09,08:00,09:30,1.5,84.0,Seminar,Approved,4.0,No,61.0,Used,0.0,Completed,Short Lead
+Res-0118,Organization,Multimedia Room,2026-06-04,2026-06-17,08:00,12:00,4.0,88.0,Event,Approved,13.0,No,0.0,Cancelled,11.0,Not Completed,Medium Lead
+Res-0119,Faculty,Multimedia Room,2026-08-16,2026-08-23,14:30,18:30,4.0,63.0,Training,Approved,7.0,No,45.0,Used,0.0,Completed,Short Lead
+Res-0120,Organization,Conference Room,2026-09-02,2026-09-06,18:30,19:30,1.0,16.0,Seminar,Approved,4.0,Yes,10.0,Used,0.0,Completed,Short Lead
+Res-0121,Organization,Laboratory,2026-01-16,2026-02-03,16:30,19:30,3.0,20.0,Event,Approved,18.0,No,0.0,Cancelled,13.0,Not Completed,Early Booking
+Res-0122,Student,Conference Room,2026-03-21,2026-04-01,08:00,09:00,1.0,89.0,Event,Approved,11.0,No,0.0,Cancelled,5.0,Not Completed,Medium Lead
+Res-0123,Organization,Classroom,2026-05-27,2026-06-03,14:00,16:00,2.0,89.0,Seminar,Approved,7.0,No,59.0,Used,0.0,Completed,Short Lead
+Res-0124,Organization,Conference Room,2026-01-02,2026-01-07,09:30,10:30,1.0,23.0,Seminar,Approved,5.0,No,0.0,No-Show,0.0,Not Completed,Short Lead
+Res-0125,Student,Auditorium,2026-04-07,2026-04-20,15:30,16:30,1.0,52.0,Class,Approved,13.0,No,50.0,Used,0.0,Completed,Medium Lead
+Res-0126,Student,Classroom,2026-02-10,2026-03-06,17:00,20:00,3.0,15.0,Class,Approved,24.0,Yes,11.0,Used,0.0,Completed,Early Booking
+Res-0127,Staff,Multimedia Room,2026-02-25,2026-03-21,16:00,17:30,1.5,60.0,Seminar,Approved,24.0,No,50.0,Used,0.0,Completed,Early Booking
+Res-0128,Organization,Classroom,2026-04-12,2026-05-01,07:00,08:00,1.0,43.0,Class,Rejected,19.0,No,0.0,Cancelled,4.0,Not Completed,Early Booking
+Res-0129,Organization,Conference Room,2026-01-31,2026-01-31,15:30,16:30,1.0,21.0,Seminar,Approved,0.0,No,16.0,Used,0.0,Completed,Last Minute
+Res-0130,Organization,Classroom,2026-08-09,2026-09-01,07:30,08:30,1.0,63.0,Training,Rejected,23.0,No,0.0,Cancelled,10.0,Not Completed,Early Booking
+Res-0131,Staff,Auditorium,2026-07-01,2026-07-21,14:30,15:30,1.0,56.0,Training,Approved,20.0,No,51.0,Used,0.0,Completed,Early Booking
+Res-0132,Staff,Conference Room,2026-04-22,2026-05-19,08:00,10:00,2.0,80.0,Meeting,Approved,27.0,No,75.0,Used,0.0,Completed,Early Booking
+Res-0133,Organization,Laboratory,2026-07-19,2026-07-24,08:00,10:00,2.0,70.0,Seminar,Approved,5.0,No,0.0,Cancelled,2.0,Not Completed,Short Lead
+Res-0134,Faculty,Laboratory,2026-02-07,2026-02-15,10:00,12:00,2.0,24.0,Meeting,Approved,8.0,No,16.0,Used,0.0,Completed,Medium Lead
+Res-0135,Staff,Multimedia Room,2026-07-14,2026-08-01,15:30,19:30,4.0,85.0,Event,Approved,18.0,No,66.0,Used,0.0,Completed,Early Booking
+Res-0136,Organization,Conference Room,2026-01-15,2026-01-26,16:00,17:30,1.5,64.0,Event,Approved,11.0,No,59.0,Used,0.0,Completed,Medium Lead
+Res-0137,Student,Classroom,2026-06-02,2026-06-18,14:30,16:30,2.0,75.0,Event,Rejected,16.0,No,0.0,Cancelled,1.0,Not Completed,Early Booking
+Res-0138,Staff,Auditorium,2026-03-24,2026-04-12,15:00,16:00,1.0,62.0,Class,Approved,19.0,No,0.0,Cancelled,10.0,Not Completed,Early Booking
+Res-0139,Student,Auditorium,2026-01-11,2026-01-18,15:30,17:30,2.0,71.0,Class,Approved,7.0,No,68.0,Used,0.0,Completed,Short Lead
+Res-0140,Staff,Multimedia Room,2026-06-23,2026-07-12,07:30,08:30,1.0,47.0,Seminar,Approved,19.0,No,33.0,Used,0.0,Completed,Early Booking
+Res-0141,Faculty,Conference Room,2026-05-30,2026-06-20,09:30,11:00,1.5,88.0,Meeting,Approved,21.0,No,73.0,Used,0.0,Completed,Early Booking
+Res-0142,Student,Conference Room,2026-04-07,2026-04-27,13:00,16:00,3.0,94.0,Event,Approved,20.0,No,82.0,Used,0.0,Completed,Early Booking
+Res-0143,Student,Multimedia Room,2026-04-03,2026-04-03,13:30,14:30,1.0,32.0,Event,Approved,0.0,No,0.0,Cancelled,0.0,Not Completed,Last Minute
+Res-0144,Faculty,Laboratory,2026-01-20,2026-01-29,08:00,11:00,3.0,48.0,Class,Approved,9.0,No,40.0,Used,0.0,Completed,Medium Lead
+Res-0145,Faculty,Laboratory,2026-08-01,2026-08-23,17:00,20:00,3.0,61.0,Class,Approved,22.0,Yes,54.0,Used,0.0,Completed,Early Booking
+Res-0146,Staff,Auditorium,2026-07-12,2026-08-04,15:00,17:00,2.0,35.0,Seminar,Approved,23.0,No,0.0,Cancelled,15.0,Not Completed,Early Booking
+Res-0147,Faculty,Conference Room,2026-04-23,2026-05-07,11:30,13:30,2.0,72.0,Event,Approved,14.0,No,48.0,Used,0.0,Completed,Medium Lead
+Res-0148,Faculty,Conference Room,2026-06-14,2026-06-29,13:00,16:00,3.0,71.0,Meeting,Approved,15.0,No,64.0,Used,0.0,Completed,Early Booking
+Res-0149,Organization,Multimedia Room,2026-02-07,2026-03-05,14:00,15:00,1.0,62.0,Event,Approved,26.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0150,Staff,Classroom,2026-05-09,2026-05-20,10:30,11:30,1.0,52.0,Training,Approved,11.0,No,33.0,Used,0.0,Completed,Medium Lead
+Res-0151,Organization,Laboratory,2026-01-10,2026-01-19,15:00,19:00,4.0,95.0,Class,Approved,9.0,No,91.0,Used,0.0,Completed,Medium Lead
+Res-0152,Student,Conference Room,2026-08-02,2026-08-06,16:30,17:30,1.0,41.0,Class,Approved,4.0,No,28.0,Used,0.0,Completed,Short Lead
+Res-0153,Staff,Classroom,2026-08-03,2026-08-31,15:00,18:00,3.0,70.0,Meeting,Approved,28.0,No,50.0,Used,0.0,Completed,Early Booking
+Res-0154,Student,Auditorium,2026-03-03,2026-03-21,14:00,17:00,3.0,90.0,Seminar,Approved,18.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0155,Student,Auditorium,2026-05-10,2026-06-04,16:00,18:00,2.0,65.0,Event,Approved,25.0,No,48.0,Used,0.0,Completed,Early Booking
+Res-0156,Student,Conference Room,2026-03-30,2026-04-06,18:00,22:00,4.0,79.0,Meeting,Approved,7.0,Yes,48.0,Used,0.0,Completed,Short Lead
+Res-0157,Organization,Laboratory,2026-06-28,2026-07-13,18:00,22:00,4.0,22.0,Training,Approved,15.0,Yes,0.0,Cancelled,14.0,Not Completed,Early Booking
+Res-0158,Student,Conference Room,2026-01-12,2026-02-06,10:00,11:30,1.5,44.0,Class,Approved,25.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0159,Staff,Conference Room,2026-07-12,2026-08-01,10:30,12:00,1.5,11.0,Meeting,Approved,20.0,No,7.0,Used,0.0,Completed,Early Booking
+Res-0160,Organization,Multimedia Room,2026-07-10,2026-07-24,14:30,15:30,1.0,68.0,Training,Approved,14.0,No,62.0,Used,0.0,Completed,Medium Lead
+Res-0161,Organization,Classroom,2026-01-21,2026-02-03,17:00,19:00,2.0,42.0,Training,Approved,13.0,Yes,36.0,Used,0.0,Completed,Medium Lead
+Res-0162,Organization,Multimedia Room,2026-07-03,2026-07-16,09:30,11:00,1.5,62.0,Event,Approved,13.0,No,0.0,Cancelled,5.0,Not Completed,Medium Lead
+Res-0163,Staff,Conference Room,2026-01-20,2026-02-10,18:30,20:00,1.5,70.0,Meeting,Approved,21.0,Yes,68.0,Used,0.0,Completed,Early Booking
+Res-0164,Faculty,Auditorium,2026-01-09,2026-01-13,08:00,12:00,4.0,87.0,Training,Approved,4.0,No,71.0,Used,0.0,Completed,Short Lead
+Res-0165,Faculty,Multimedia Room,2026-04-06,2026-04-20,08:00,10:00,2.0,51.0,Seminar,Approved,14.0,No,35.0,Used,0.0,Completed,Medium Lead
+Res-0166,Student,Classroom,2026-05-08,2026-05-24,14:00,15:30,1.5,38.0,Class,Approved,16.0,No,32.0,Used,0.0,Completed,Early Booking
+Res-0167,Staff,Laboratory,2026-02-04,2026-03-03,08:30,09:30,1.0,96.0,Meeting,Approved,27.0,No,83.0,Used,0.0,Completed,Early Booking
+Res-0168,Organization,Conference Room,2026-05-21,2026-06-07,11:30,15:30,4.0,25.0,Meeting,Approved,17.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0169,Faculty,Conference Room,2026-02-27,2026-03-02,10:00,11:00,1.0,68.0,Event,Approved,3.0,No,50.0,Used,0.0,Completed,Short Lead
+Res-0170,Faculty,Auditorium,2026-01-17,2026-01-26,14:30,16:30,2.0,57.0,Meeting,Approved,9.0,No,0.0,Cancelled,1.0,Not Completed,Medium Lead
+Res-0171,Faculty,Conference Room,2026-04-26,2026-05-10,18:30,19:30,1.0,75.0,Meeting,Approved,14.0,Yes,73.0,Used,0.0,Completed,Medium Lead
+Res-0172,Staff,Auditorium,2026-08-01,2026-08-04,16:00,17:30,1.5,26.0,Meeting,Approved,3.0,No,0.0,No-Show,0.0,Not Completed,Short Lead
+Res-0173,Faculty,Conference Room,2026-08-18,2026-08-27,08:30,09:30,1.0,86.0,Event,Rejected,9.0,No,0.0,Cancelled,4.0,Not Completed,Medium Lead
+Res-0174,Faculty,Conference Room,2026-05-17,2026-05-19,16:00,18:00,2.0,79.0,Event,Approved,2.0,No,70.0,Used,0.0,Completed,Last Minute
+Res-0175,Organization,Auditorium,2026-07-31,2026-08-27,07:00,08:00,1.0,87.0,Meeting,Approved,27.0,No,59.0,Used,0.0,Completed,Early Booking
+Res-0176,Staff,Auditorium,2026-05-08,2026-06-05,18:30,21:30,3.0,43.0,Meeting,Approved,28.0,Yes,0.0,Cancelled,21.0,Not Completed,Early Booking
+Res-0177,Staff,Conference Room,2026-01-19,2026-02-10,07:00,09:00,2.0,58.0,Training,Approved,22.0,No,48.0,Used,0.0,Completed,Early Booking
+Res-0178,Organization,Conference Room,2026-09-07,2026-09-19,09:30,11:30,2.0,76.0,Seminar,Approved,12.0,No,49.0,Used,0.0,Completed,Medium Lead
+Res-0179,Staff,Laboratory,2026-01-25,2026-01-26,11:30,15:30,4.0,83.0,Class,Approved,1.0,No,0.0,No-Show,0.0,Not Completed,Last Minute
+Res-0180,Faculty,Conference Room,2026-07-04,2026-07-14,10:00,12:00,2.0,70.0,Event,Approved,10.0,No,0.0,Cancelled,7.0,Not Completed,Medium Lead
+Res-0181,Student,Classroom,2026-05-10,2026-05-24,10:00,12:00,2.0,50.0,Training,Approved,14.0,No,41.0,Used,0.0,Completed,Medium Lead
+Res-0182,Staff,Conference Room,2026-01-03,2026-01-30,08:30,09:30,1.0,38.0,Event,Approved,27.0,No,0.0,Cancelled,11.0,Not Completed,Early Booking
+Res-0183,Student,Multimedia Room,2026-05-26,2026-06-12,10:30,12:30,2.0,41.0,Meeting,Approved,17.0,No,37.0,Used,0.0,Completed,Early Booking
+Res-0184,Organization,Auditorium,2026-01-31,2026-02-04,08:30,10:00,1.5,48.0,Event,Approved,4.0,No,31.0,Used,0.0,Completed,Short Lead
+Res-0185,Staff,Auditorium,2026-01-12,2026-01-13,09:30,13:30,4.0,65.0,Meeting,Approved,1.0,No,62.0,Used,0.0,Completed,Last Minute
+Res-0186,Faculty,Conference Room,2026-03-23,2026-03-28,14:30,16:30,2.0,48.0,Event,Approved,5.0,No,38.0,Used,0.0,Completed,Short Lead
+Res-0187,Organization,Multimedia Room,2026-04-05,2026-04-15,18:00,20:00,2.0,79.0,Meeting,Approved,10.0,Yes,0.0,Cancelled,10.0,Not Completed,Medium Lead
+Res-0188,Student,Auditorium,2026-03-09,2026-04-08,18:00,21:00,3.0,11.0,Training,Approved,30.0,Yes,9.0,Used,0.0,Completed,Early Booking
+Res-0189,Staff,Laboratory,2026-01-09,2026-01-27,08:00,09:00,1.0,61.0,Class,Approved,18.0,No,53.0,Used,0.0,Completed,Early Booking
+Res-0190,Staff,Auditorium,2026-08-24,2026-09-08,07:00,09:00,2.0,31.0,Event,Approved,15.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0191,Staff,Auditorium,2026-03-22,2026-04-21,09:30,11:30,2.0,48.0,Training,Approved,30.0,No,45.0,Used,0.0,Completed,Early Booking
+Res-0192,Organization,Auditorium,2026-02-19,2026-03-21,10:30,12:30,2.0,43.0,Training,Approved,30.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0193,Organization,Conference Room,2026-06-26,2026-07-18,15:30,17:30,2.0,49.0,Class,Approved,22.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0194,Organization,Conference Room,2026-05-27,2026-06-17,16:30,18:30,2.0,49.0,Meeting,Rejected,21.0,No,0.0,Cancelled,4.0,Not Completed,Early Booking
+Res-0195,Organization,Classroom,2026-09-02,2026-09-24,08:30,10:30,2.0,88.0,Seminar,Approved,22.0,No,59.0,Used,0.0,Completed,Early Booking
+Res-0196,Organization,Auditorium,2026-02-05,2026-02-08,17:00,18:00,1.0,11.0,Seminar,Approved,3.0,Yes,9.0,Used,0.0,Completed,Short Lead
+Res-0197,Student,Classroom,2026-03-26,2026-04-17,15:00,18:00,3.0,22.0,Training,Approved,22.0,No,21.0,Used,0.0,Completed,Early Booking
+Res-0198,Staff,Multimedia Room,2026-06-16,2026-06-22,11:30,13:00,1.5,87.0,Training,Approved,6.0,No,0.0,Cancelled,5.0,Not Completed,Short Lead
+Res-0199,Faculty,Auditorium,2026-08-22,2026-09-20,09:30,13:30,4.0,27.0,Meeting,Rejected,29.0,No,0.0,Cancelled,1.0,Not Completed,Early Booking
+Res-0200,Staff,Multimedia Room,2026-08-28,2026-09-20,11:00,12:00,1.0,43.0,Class,Approved,23.0,No,42.0,Used,0.0,Completed,Early Booking
+Res-0201,Organization,Multimedia Room,2026-05-15,2026-05-30,09:30,11:00,1.5,29.0,Event,Approved,15.0,No,25.0,Used,0.0,Completed,Early Booking
+Res-0202,Organization,Laboratory,2026-07-08,2026-07-18,11:00,12:00,1.0,83.0,Meeting,Approved,10.0,No,0.0,Cancelled,6.0,Not Completed,Medium Lead
+Res-0203,Organization,Classroom,2026-06-21,2026-06-24,09:00,11:00,2.0,46.0,Training,Rejected,3.0,No,0.0,Cancelled,0.0,Not Completed,Short Lead
+Res-0204,Organization,Multimedia Room,2026-04-25,2026-05-19,11:30,13:00,1.5,79.0,Class,Approved,24.0,No,68.0,Used,0.0,Completed,Early Booking
+Res-0205,Faculty,Classroom,2026-04-30,2026-05-09,09:30,12:30,3.0,69.0,Meeting,Rejected,9.0,No,0.0,Cancelled,4.0,Not Completed,Medium Lead
+Res-0206,Student,Conference Room,2026-06-07,2026-06-14,10:00,12:00,2.0,24.0,Seminar,Approved,7.0,No,0.0,No-Show,0.0,Not Completed,Short Lead
+Res-0207,Organization,Multimedia Room,2026-08-22,2026-09-06,16:00,20:00,4.0,36.0,Event,Approved,15.0,No,32.0,Used,0.0,Completed,Early Booking
+Res-0208,Staff,Auditorium,2026-01-20,2026-02-18,17:00,18:00,1.0,75.0,Seminar,Rejected,29.0,Yes,0.0,Cancelled,6.0,Not Completed,Early Booking
+Res-0209,Faculty,Laboratory,2026-08-07,2026-08-23,15:00,18:00,3.0,31.0,Seminar,Approved,16.0,No,29.0,Used,0.0,Completed,Early Booking
+Res-0210,Staff,Classroom,2026-02-03,2026-02-19,14:30,16:30,2.0,12.0,Training,Approved,16.0,No,8.0,Used,0.0,Completed,Early Booking
+Res-0211,Student,Multimedia Room,2026-07-29,2026-07-29,10:00,11:00,1.0,59.0,Seminar,Approved,0.0,No,58.0,Used,0.0,Completed,Last Minute
+Res-0212,Student,Multimedia Room,2026-03-15,2026-03-28,09:00,13:00,4.0,87.0,Meeting,Rejected,13.0,No,0.0,Cancelled,10.0,Not Completed,Medium Lead
+Res-0213,Staff,Conference Room,2026-04-25,2026-05-22,14:30,15:30,1.0,92.0,Training,Rejected,27.0,No,0.0,Cancelled,27.0,Not Completed,Early Booking
+Res-0214,Faculty,Conference Room,2026-02-15,2026-03-04,14:00,17:00,3.0,33.0,Meeting,Approved,17.0,No,0.0,Cancelled,9.0,Not Completed,Early Booking
+Res-0215,Staff,Auditorium,2026-05-17,2026-05-29,10:00,12:00,2.0,49.0,Training,Approved,12.0,No,46.0,Used,0.0,Completed,Medium Lead
+Res-0216,Student,Classroom,2026-06-07,2026-07-01,07:00,08:00,1.0,13.0,Training,Approved,24.0,No,10.0,Used,0.0,Completed,Early Booking
+Res-0217,Student,Laboratory,2026-04-13,2026-04-27,10:00,14:00,4.0,12.0,Meeting,Approved,14.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0218,Faculty,Auditorium,2026-05-28,2026-06-16,18:30,19:30,1.0,43.0,Seminar,Approved,19.0,Yes,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0219,Faculty,Multimedia Room,2026-03-12,2026-03-13,16:00,19:00,3.0,91.0,Seminar,Approved,1.0,No,89.0,Used,0.0,Completed,Last Minute
+Res-0220,Staff,Auditorium,2026-06-28,2026-07-11,14:00,15:30,1.5,53.0,Seminar,Approved,13.0,No,36.0,Used,0.0,Completed,Medium Lead
+Res-0221,Faculty,Conference Room,2026-07-26,2026-08-09,07:30,09:30,2.0,76.0,Class,Approved,14.0,No,53.0,Used,0.0,Completed,Medium Lead
+Res-0222,Organization,Classroom,2026-08-05,2026-08-16,08:00,09:00,1.0,39.0,Training,Approved,11.0,No,24.0,Used,0.0,Completed,Medium Lead
+Res-0223,Student,Laboratory,2026-07-05,2026-07-26,16:00,18:00,2.0,31.0,Event,Approved,21.0,No,30.0,Used,0.0,Completed,Early Booking
+Res-0224,Student,Laboratory,2026-09-04,2026-09-27,08:30,09:30,1.0,94.0,Class,Approved,23.0,No,90.0,Used,0.0,Completed,Early Booking
+Res-0225,Organization,Conference Room,2026-04-30,2026-05-17,18:30,20:00,1.5,38.0,Training,Approved,17.0,Yes,0.0,Cancelled,14.0,Not Completed,Early Booking
+Res-0226,Student,Multimedia Room,2026-08-23,2026-08-29,13:30,15:30,2.0,10.0,Seminar,Approved,6.0,No,6.0,Used,0.0,Completed,Short Lead
+Res-0227,Organization,Auditorium,2026-05-29,2026-06-21,14:30,15:30,1.0,30.0,Event,Approved,23.0,No,28.0,Used,0.0,Completed,Early Booking
+Res-0228,Staff,Auditorium,2026-03-07,2026-03-31,15:30,17:30,2.0,26.0,Seminar,Approved,24.0,No,17.0,Used,0.0,Completed,Early Booking
+Res-0229,Staff,Laboratory,2026-06-14,2026-07-14,07:00,11:00,4.0,14.0,Event,Rejected,30.0,No,0.0,Cancelled,21.0,Not Completed,Early Booking
+Res-0230,Student,Classroom,2026-02-05,2026-03-03,18:00,19:00,1.0,95.0,Training,Approved,26.0,Yes,74.0,Used,0.0,Completed,Early Booking
+Res-0231,Student,Auditorium,2026-08-22,2026-09-06,18:30,19:30,1.0,5.0,Event,Approved,15.0,Yes,3.0,Used,0.0,Completed,Early Booking
+Res-0232,Organization,Auditorium,2026-01-05,2026-01-21,18:30,22:30,4.0,27.0,Seminar,Approved,16.0,Yes,17.0,Used,0.0,Completed,Early Booking
+Res-0233,Faculty,Auditorium,2026-03-06,2026-04-01,13:30,17:30,4.0,55.0,Event,Approved,26.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0234,Staff,Auditorium,2026-06-28,2026-07-05,11:00,14:00,3.0,88.0,Class,Approved,7.0,No,66.0,Used,0.0,Completed,Short Lead
+Res-0235,Staff,Classroom,2026-06-29,2026-07-04,08:30,12:30,4.0,60.0,Meeting,Approved,5.0,No,59.0,Used,0.0,Completed,Short Lead
+Res-0236,Student,Auditorium,2026-02-28,2026-03-06,17:30,19:00,1.5,10.0,Meeting,Rejected,6.0,Yes,0.0,Cancelled,5.0,Not Completed,Short Lead
+Res-0237,Organization,Auditorium,2026-06-18,2026-06-19,09:30,10:30,1.0,31.0,Event,Approved,1.0,No,0.0,Cancelled,1.0,Not Completed,Last Minute
+Res-0238,Student,Conference Room,2026-05-25,2026-06-01,17:30,20:30,3.0,74.0,Class,Approved,7.0,Yes,0.0,Cancelled,2.0,Not Completed,Short Lead
+Res-0239,Student,Auditorium,2026-01-14,2026-01-17,14:00,18:00,4.0,14.0,Seminar,Approved,3.0,No,0.0,Cancelled,3.0,Not Completed,Short Lead
+Res-0240,Organization,Classroom,2026-07-20,2026-08-03,15:00,16:30,1.5,75.0,Seminar,Rejected,14.0,No,0.0,Cancelled,6.0,Not Completed,Medium Lead
+Res-0241,Faculty,Auditorium,2026-01-22,2026-02-15,17:30,21:30,4.0,36.0,Training,Approved,24.0,Yes,23.0,Used,0.0,Completed,Early Booking
+Res-0242,Faculty,Multimedia Room,2026-04-03,2026-04-06,08:00,09:30,1.5,61.0,Seminar,Approved,3.0,No,39.0,Used,0.0,Completed,Short Lead
+Res-0243,Faculty,Multimedia Room,2026-05-23,2026-06-09,16:30,17:30,1.0,8.0,Training,Approved,17.0,No,6.0,Used,0.0,Completed,Early Booking
+Res-0244,Organization,Multimedia Room,2026-03-16,2026-03-29,14:00,17:00,3.0,76.0,Meeting,Rejected,13.0,No,0.0,Cancelled,3.0,Not Completed,Medium Lead
+Res-0245,Faculty,Multimedia Room,2026-02-05,2026-02-13,11:30,13:30,2.0,23.0,Class,Approved,8.0,No,17.0,Used,0.0,Completed,Medium Lead
+Res-0246,Staff,Classroom,2026-03-06,2026-04-05,10:30,12:30,2.0,83.0,Seminar,Approved,30.0,No,59.0,Used,0.0,Completed,Early Booking
+Res-0247,Staff,Conference Room,2026-04-08,2026-05-03,13:30,15:00,1.5,60.0,Event,Approved,25.0,No,0.0,Cancelled,19.0,Not Completed,Early Booking
+Res-0248,Faculty,Conference Room,2026-06-04,2026-07-04,10:30,12:00,1.5,27.0,Seminar,Rejected,30.0,No,0.0,Cancelled,30.0,Not Completed,Early Booking
+Res-0249,Organization,Conference Room,2026-09-05,2026-09-23,10:30,12:30,2.0,40.0,Training,Approved,18.0,No,25.0,Used,0.0,Completed,Early Booking
+Res-0250,Faculty,Auditorium,2026-02-16,2026-03-09,16:00,19:00,3.0,64.0,Event,Rejected,21.0,No,0.0,Cancelled,6.0,Not Completed,Early Booking
+Res-0251,Staff,Conference Room,2026-07-29,2026-08-25,14:30,15:30,1.0,86.0,Meeting,Approved,27.0,No,56.0,Used,0.0,Completed,Early Booking
+Res-0252,Staff,Multimedia Room,2026-04-25,2026-05-14,15:30,17:30,2.0,69.0,Meeting,Rejected,19.0,No,0.0,Cancelled,13.0,Not Completed,Early Booking
+Res-0253,Student,Conference Room,2026-06-02,2026-06-22,08:00,12:00,4.0,36.0,Event,Approved,20.0,No,30.0,Used,0.0,Completed,Early Booking
+Res-0254,Student,Auditorium,2026-09-05,2026-09-29,13:30,14:30,1.0,6.0,Training,Approved,24.0,No,5.0,Used,0.0,Completed,Early Booking
+Res-0255,Faculty,Multimedia Room,2026-04-11,2026-04-25,18:00,19:30,1.5,8.0,Seminar,Approved,14.0,Yes,7.0,Used,0.0,Completed,Medium Lead
+Res-0256,Student,Classroom,2026-03-31,2026-04-09,13:30,17:30,4.0,31.0,Class,Approved,9.0,No,19.0,Used,0.0,Completed,Medium Lead
+Res-0257,Staff,Conference Room,2026-03-18,2026-03-19,08:00,12:00,4.0,48.0,Meeting,Approved,1.0,No,31.0,Used,0.0,Completed,Last Minute
+Res-0258,Faculty,Auditorium,2026-05-22,2026-05-27,13:30,15:30,2.0,34.0,Class,Approved,5.0,No,22.0,Used,0.0,Completed,Short Lead
+Res-0259,Staff,Multimedia Room,2026-07-08,2026-07-27,10:30,12:30,2.0,59.0,Meeting,Approved,19.0,No,40.0,Used,0.0,Completed,Early Booking
+Res-0260,Student,Auditorium,2026-07-24,2026-08-20,16:00,17:30,1.5,46.0,Meeting,Approved,27.0,No,39.0,Used,0.0,Completed,Early Booking
+Res-0261,Staff,Auditorium,2026-06-02,2026-06-14,17:30,19:30,2.0,19.0,Seminar,Approved,12.0,Yes,0.0,Cancelled,9.0,Not Completed,Medium Lead
+Res-0262,Faculty,Conference Room,2026-06-01,2026-06-03,18:00,19:30,1.5,20.0,Event,Approved,2.0,Yes,14.0,Used,0.0,Completed,Last Minute
+Res-0263,Faculty,Auditorium,2026-04-18,2026-05-07,09:30,11:30,2.0,28.0,Training,Approved,19.0,No,27.0,Used,0.0,Completed,Early Booking
+Res-0264,Faculty,Auditorium,2026-05-06,2026-05-15,09:00,10:30,1.5,62.0,Class,Approved,9.0,No,0.0,Cancelled,0.0,Not Completed,Medium Lead
+Res-0265,Staff,Laboratory,2026-07-28,2026-08-09,16:30,18:30,2.0,92.0,Class,Approved,12.0,No,71.0,Used,0.0,Completed,Medium Lead
+Res-0266,Faculty,Classroom,2026-01-08,2026-02-02,10:30,11:30,1.0,40.0,Event,Approved,25.0,No,36.0,Used,0.0,Completed,Early Booking
+Res-0267,Staff,Auditorium,2026-01-29,2026-02-16,08:30,12:30,4.0,74.0,Event,Approved,18.0,No,68.0,Used,0.0,Completed,Early Booking
+Res-0268,Student,Multimedia Room,2026-02-25,2026-03-10,08:00,09:30,1.5,9.0,Event,Approved,13.0,No,8.0,Used,0.0,Completed,Medium Lead
+Res-0269,Staff,Classroom,2026-02-23,2026-03-20,17:30,21:30,4.0,95.0,Class,Approved,25.0,Yes,80.0,Used,0.0,Completed,Early Booking
+Res-0270,Faculty,Laboratory,2026-05-26,2026-06-06,16:30,18:30,2.0,73.0,Meeting,Approved,11.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0271,Organization,Conference Room,2026-03-10,2026-04-09,16:00,17:00,1.0,57.0,Event,Rejected,30.0,No,0.0,Cancelled,8.0,Not Completed,Early Booking
+Res-0272,Faculty,Laboratory,2026-02-07,2026-03-01,13:00,17:00,4.0,91.0,Class,Approved,22.0,No,77.0,Used,0.0,Completed,Early Booking
+Res-0273,Staff,Multimedia Room,2026-01-20,2026-02-09,08:30,10:30,2.0,100.0,Training,Approved,20.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0274,Organization,Multimedia Room,2026-03-25,2026-04-12,07:00,10:00,3.0,63.0,Training,Approved,18.0,No,59.0,Used,0.0,Completed,Early Booking
+Res-0275,Staff,Laboratory,2026-07-31,2026-08-06,15:30,17:00,1.5,41.0,Training,Approved,6.0,No,33.0,Used,0.0,Completed,Short Lead
+Res-0276,Staff,Conference Room,2026-01-12,2026-01-15,18:30,19:30,1.0,20.0,Meeting,Rejected,3.0,Yes,0.0,Cancelled,1.0,Not Completed,Short Lead
+Res-0277,Staff,Multimedia Room,2026-09-03,2026-09-16,10:00,13:00,3.0,43.0,Meeting,Approved,13.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0278,Organization,Classroom,2026-03-06,2026-03-08,13:00,14:00,1.0,55.0,Seminar,Approved,2.0,No,49.0,Used,0.0,Completed,Last Minute
+Res-0279,Staff,Classroom,2026-01-01,2026-01-07,15:00,16:00,1.0,80.0,Meeting,Approved,6.0,No,48.0,Used,0.0,Completed,Short Lead
+Res-0280,Organization,Classroom,2026-06-27,2026-07-01,15:00,16:00,1.0,54.0,Training,Approved,4.0,No,0.0,Cancelled,0.0,Not Completed,Short Lead
+Res-0281,Organization,Conference Room,2026-02-05,2026-02-17,09:00,10:00,1.0,72.0,Seminar,Approved,12.0,No,47.0,Used,0.0,Completed,Medium Lead
+Res-0282,Organization,Laboratory,2026-08-24,2026-09-06,17:30,21:30,4.0,32.0,Class,Approved,13.0,Yes,28.0,Used,0.0,Completed,Medium Lead
+Res-0283,Staff,Conference Room,2026-03-22,2026-04-16,09:00,10:30,1.5,87.0,Training,Approved,25.0,No,73.0,Used,0.0,Completed,Early Booking
+Res-0284,Organization,Classroom,2026-02-22,2026-03-10,17:00,20:00,3.0,55.0,Seminar,Approved,16.0,Yes,52.0,Used,0.0,Completed,Early Booking
+Res-0285,Faculty,Multimedia Room,2026-01-29,2026-02-05,15:00,17:00,2.0,6.0,Training,Rejected,7.0,No,0.0,Cancelled,5.0,Not Completed,Short Lead
+Res-0286,Faculty,Multimedia Room,2026-04-18,2026-04-29,16:00,20:00,4.0,65.0,Event,Rejected,11.0,No,0.0,Cancelled,1.0,Not Completed,Medium Lead
+Res-0287,Student,Auditorium,2026-01-04,2026-01-12,10:00,11:00,1.0,55.0,Meeting,Approved,8.0,No,44.0,Used,0.0,Completed,Medium Lead
+Res-0288,Staff,Multimedia Room,2026-01-22,2026-02-11,16:00,17:30,1.5,15.0,Training,Approved,20.0,No,10.0,Used,0.0,Completed,Early Booking
+Res-0289,Faculty,Auditorium,2026-04-11,2026-04-29,18:00,19:30,1.5,94.0,Seminar,Approved,18.0,Yes,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0290,Faculty,Classroom,2026-01-23,2026-02-21,14:00,16:00,2.0,83.0,Class,Approved,29.0,No,74.0,Used,0.0,Completed,Early Booking
+Res-0291,Faculty,Classroom,2026-07-01,2026-07-05,07:00,09:00,2.0,49.0,Meeting,Approved,4.0,No,0.0,Cancelled,2.0,Not Completed,Short Lead
+Res-0292,Faculty,Conference Room,2026-07-11,2026-08-04,11:00,15:00,4.0,8.0,Class,Approved,24.0,No,6.0,Used,0.0,Completed,Early Booking
+Res-0293,Organization,Auditorium,2026-05-08,2026-05-22,16:30,17:30,1.0,68.0,Meeting,Approved,14.0,No,45.0,Used,0.0,Completed,Medium Lead
+Res-0294,Student,Auditorium,2026-02-28,2026-03-23,16:00,17:00,1.0,6.0,Meeting,Approved,23.0,No,4.0,Used,0.0,Completed,Early Booking
+Res-0295,Faculty,Laboratory,2026-05-22,2026-06-16,18:30,19:30,1.0,46.0,Meeting,Approved,25.0,Yes,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0296,Organization,Conference Room,2026-05-27,2026-06-07,08:00,09:00,1.0,33.0,Meeting,Approved,11.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0297,Staff,Classroom,2026-08-10,2026-08-19,11:30,12:30,1.0,75.0,Training,Approved,9.0,No,53.0,Used,0.0,Completed,Medium Lead
+Res-0298,Organization,Auditorium,2026-04-29,2026-05-10,17:30,21:30,4.0,30.0,Class,Approved,11.0,Yes,27.0,Used,0.0,Completed,Medium Lead
+Res-0299,Faculty,Classroom,2026-01-07,2026-01-14,16:30,19:30,3.0,93.0,Training,Approved,7.0,No,0.0,No-Show,0.0,Not Completed,Short Lead
+Res-0300,Student,Multimedia Room,2026-01-27,2026-02-02,16:00,18:00,2.0,67.0,Seminar,Rejected,6.0,No,0.0,Cancelled,1.0,Not Completed,Short Lead
+Res-0301,Organization,Classroom,2026-08-24,2026-08-31,16:30,19:30,3.0,52.0,Meeting,Approved,7.0,No,43.0,Used,0.0,Completed,Short Lead
+Res-0302,Faculty,Multimedia Room,2026-06-01,2026-06-19,07:30,10:30,3.0,21.0,Meeting,Approved,18.0,No,15.0,Used,0.0,Completed,Early Booking
+Res-0303,Staff,Conference Room,2026-04-26,2026-05-04,10:00,11:00,1.0,22.0,Seminar,Approved,8.0,No,14.0,Used,0.0,Completed,Medium Lead
+Res-0304,Faculty,Multimedia Room,2026-03-22,2026-04-04,08:30,12:30,4.0,31.0,Training,Approved,13.0,No,29.0,Used,0.0,Completed,Medium Lead
+Res-0305,Student,Laboratory,2026-07-31,2026-08-22,17:00,18:00,1.0,46.0,Seminar,Approved,22.0,Yes,45.0,Used,0.0,Completed,Early Booking
+Res-0306,Staff,Auditorium,2026-06-23,2026-07-02,11:00,12:00,1.0,56.0,Meeting,Approved,9.0,No,45.0,Used,0.0,Completed,Medium Lead
+Res-0307,Student,Multimedia Room,2026-07-25,2026-08-19,09:00,10:00,1.0,12.0,Meeting,Approved,25.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0308,Faculty,Laboratory,2026-04-06,2026-04-27,18:00,20:00,2.0,80.0,Training,Approved,21.0,Yes,0.0,Cancelled,0.0,Not Completed,Early Booking
+Res-0309,Student,Laboratory,2026-07-27,2026-07-31,08:30,09:30,1.0,10.0,Training,Rejected,4.0,No,0.0,Cancelled,0.0,Not Completed,Short Lead
+Res-0310,Faculty,Auditorium,2026-07-30,2026-08-22,14:30,15:30,1.0,53.0,Training,Approved,23.0,No,36.0,Used,0.0,Completed,Early Booking
+Res-0311,Faculty,Conference Room,2026-04-25,2026-05-23,09:00,11:00,2.0,84.0,Seminar,Approved,28.0,No,67.0,Used,0.0,Completed,Early Booking
+Res-0312,Staff,Classroom,2026-03-13,2026-03-25,09:30,10:30,1.0,87.0,Meeting,Approved,12.0,No,74.0,Used,0.0,Completed,Medium Lead
+Res-0313,Student,Multimedia Room,2026-05-03,2026-05-20,15:30,17:30,2.0,69.0,Seminar,Approved,17.0,No,42.0,Used,0.0,Completed,Early Booking
+Res-0314,Faculty,Classroom,2026-01-15,2026-02-09,15:30,19:30,4.0,79.0,Seminar,Rejected,25.0,No,0.0,Cancelled,5.0,Not Completed,Early Booking
+Res-0315,Student,Laboratory,2026-03-10,2026-03-27,07:00,09:00,2.0,54.0,Class,Approved,17.0,No,0.0,Cancelled,5.0,Not Completed,Early Booking
+Res-0316,Faculty,Laboratory,2026-03-23,2026-04-17,13:00,16:00,3.0,94.0,Event,Approved,25.0,No,61.0,Used,0.0,Completed,Early Booking
+Res-0317,Faculty,Multimedia Room,2026-03-21,2026-03-26,15:00,16:00,1.0,12.0,Event,Approved,5.0,No,9.0,Used,0.0,Completed,Short Lead
+Res-0318,Student,Conference Room,2026-02-21,2026-03-18,09:30,12:30,3.0,27.0,Event,Rejected,25.0,No,0.0,Cancelled,10.0,Not Completed,Early Booking
+Res-0319,Student,Classroom,2026-05-31,2026-06-22,09:00,13:00,4.0,72.0,Class,Approved,22.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0320,Organization,Multimedia Room,2026-01-26,2026-02-05,11:30,12:30,1.0,25.0,Event,Approved,10.0,No,21.0,Used,0.0,Completed,Medium Lead
+Res-0321,Staff,Conference Room,2026-07-01,2026-07-31,16:30,17:30,1.0,90.0,Class,Approved,30.0,No,65.0,Used,0.0,Completed,Early Booking
+Res-0322,Organization,Laboratory,2026-07-06,2026-07-06,17:30,21:30,4.0,77.0,Class,Approved,0.0,Yes,74.0,Used,0.0,Completed,Last Minute
+Res-0323,Faculty,Auditorium,2026-08-28,2026-09-12,09:30,12:30,3.0,14.0,Meeting,Approved,15.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0324,Faculty,Classroom,2026-04-25,2026-04-25,11:00,12:00,1.0,93.0,Seminar,Approved,0.0,No,59.0,Used,0.0,Completed,Last Minute
+Res-0325,Student,Classroom,2026-04-23,2026-05-16,14:00,16:00,2.0,68.0,Training,Approved,23.0,No,51.0,Used,0.0,Completed,Early Booking
+Res-0326,Staff,Auditorium,2026-02-11,2026-02-25,08:00,09:30,1.5,7.0,Class,Approved,14.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0327,Student,Conference Room,2026-08-16,2026-08-28,09:00,11:00,2.0,16.0,Class,Approved,12.0,No,0.0,No-Show,0.0,Not Completed,Medium Lead
+Res-0328,Staff,Classroom,2026-08-30,2026-09-19,09:30,10:30,1.0,11.0,Training,Approved,20.0,No,7.0,Used,0.0,Completed,Early Booking
+Res-0329,Organization,Conference Room,2026-03-02,2026-03-05,07:30,09:30,2.0,75.0,Seminar,Approved,3.0,No,55.0,Used,0.0,Completed,Short Lead
+Res-0330,Staff,Classroom,2026-07-30,2026-08-20,18:30,19:30,1.0,17.0,Seminar,Approved,21.0,Yes,12.0,Used,0.0,Completed,Early Booking
+Res-0331,Student,Multimedia Room,2026-03-20,2026-04-14,14:30,16:30,2.0,89.0,Meeting,Approved,25.0,No,67.0,Used,0.0,Completed,Early Booking
+Res-0332,Organization,Multimedia Room,2026-02-17,2026-03-03,07:30,09:30,2.0,64.0,Seminar,Approved,14.0,No,0.0,Cancelled,9.0,Not Completed,Medium Lead
+Res-0333,Student,Laboratory,2026-01-22,2026-02-12,13:30,17:30,4.0,80.0,Meeting,Approved,21.0,No,60.0,Used,0.0,Completed,Early Booking
+Res-0334,Staff,Auditorium,2026-05-27,2026-06-24,10:30,12:00,1.5,15.0,Training,Approved,28.0,No,0.0,Cancelled,1.0,Not Completed,Early Booking
+Res-0335,Faculty,Classroom,2026-02-14,2026-03-16,09:00,13:00,4.0,29.0,Training,Approved,30.0,No,28.0,Used,0.0,Completed,Early Booking
+Res-0336,Staff,Laboratory,2026-08-02,2026-08-21,11:30,14:30,3.0,13.0,Class,Approved,19.0,No,10.0,Used,0.0,Completed,Early Booking
+Res-0337,Organization,Auditorium,2026-08-23,2026-09-19,07:30,08:30,1.0,58.0,Training,Approved,27.0,No,48.0,Used,0.0,Completed,Early Booking
+Res-0338,Student,Classroom,2026-07-19,2026-07-22,11:30,13:30,2.0,38.0,Event,Approved,3.0,No,32.0,Used,0.0,Completed,Short Lead
+Res-0339,Student,Laboratory,2026-04-14,2026-04-18,17:30,18:30,1.0,55.0,Seminar,Approved,4.0,Yes,38.0,Used,0.0,Completed,Short Lead
+Res-0340,Staff,Conference Room,2026-01-06,2026-01-16,11:30,13:00,1.5,67.0,Seminar,Approved,10.0,No,66.0,Used,0.0,Completed,Medium Lead
+Res-0341,Faculty,Laboratory,2026-09-07,2026-09-30,15:30,17:00,1.5,98.0,Seminar,Approved,23.0,No,66.0,Used,0.0,Completed,Early Booking
+Res-0342,Faculty,Multimedia Room,2026-07-14,2026-07-30,13:00,15:00,2.0,25.0,Training,Approved,16.0,No,19.0,Used,0.0,Completed,Early Booking
+Res-0343,Student,Laboratory,2026-08-13,2026-09-08,10:00,11:00,1.0,9.0,Class,Approved,26.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0344,Faculty,Conference Room,2026-07-30,2026-08-13,16:30,19:30,3.0,20.0,Seminar,Approved,14.0,No,15.0,Used,0.0,Completed,Medium Lead
+Res-0345,Staff,Laboratory,2026-05-31,2026-06-17,13:30,14:30,1.0,38.0,Training,Approved,17.0,No,27.0,Used,0.0,Completed,Early Booking
+Res-0346,Staff,Classroom,2026-08-07,2026-08-25,10:00,13:00,3.0,33.0,Class,Approved,18.0,No,25.0,Used,0.0,Completed,Early Booking
+Res-0347,Student,Classroom,2026-08-22,2026-08-26,18:00,20:00,2.0,6.0,Training,Approved,4.0,Yes,5.0,Used,0.0,Completed,Short Lead
+Res-0348,Organization,Multimedia Room,2026-08-07,2026-08-18,15:30,16:30,1.0,64.0,Training,Approved,11.0,No,54.0,Used,0.0,Completed,Medium Lead
+Res-0349,Student,Classroom,2026-06-19,2026-07-19,13:30,15:00,1.5,92.0,Event,Approved,30.0,No,91.0,Used,0.0,Completed,Early Booking
+Res-0350,Organization,Conference Room,2026-06-17,2026-07-09,18:30,19:30,1.0,24.0,Seminar,Approved,22.0,Yes,14.0,Used,0.0,Completed,Early Booking
+Res-0351,Staff,Conference Room,2026-07-04,2026-07-04,18:30,20:00,1.5,38.0,Class,Rejected,0.0,Yes,0.0,Cancelled,1.0,Not Completed,Last Minute
+Res-0352,Staff,Classroom,2026-07-01,2026-07-19,10:30,13:30,3.0,96.0,Event,Approved,18.0,No,87.0,Used,0.0,Completed,Early Booking
+Res-0353,Organization,Auditorium,2026-08-05,2026-08-10,18:00,19:30,1.5,17.0,Seminar,Approved,5.0,Yes,15.0,Used,0.0,Completed,Short Lead
+Res-0354,Faculty,Conference Room,2026-02-26,2026-03-09,10:30,12:30,2.0,47.0,Meeting,Approved,11.0,No,36.0,Used,0.0,Completed,Medium Lead
+Res-0355,Student,Multimedia Room,2026-08-10,2026-08-30,17:00,19:00,2.0,29.0,Meeting,Approved,20.0,Yes,0.0,Cancelled,12.0,Not Completed,Early Booking
+Res-0356,Organization,Multimedia Room,2026-08-11,2026-09-07,09:00,10:00,1.0,48.0,Meeting,Approved,27.0,No,46.0,Used,0.0,Completed,Early Booking
+Res-0357,Staff,Laboratory,2026-08-09,2026-08-31,09:00,11:00,2.0,47.0,Seminar,Approved,22.0,No,40.0,Used,0.0,Completed,Early Booking
+Res-0358,Student,Multimedia Room,2026-02-23,2026-03-19,09:00,11:00,2.0,16.0,Seminar,Approved,24.0,No,12.0,Used,0.0,Completed,Early Booking
+Res-0359,Staff,Multimedia Room,2026-01-02,2026-01-03,16:00,19:00,3.0,52.0,Training,Rejected,1.0,No,0.0,Cancelled,1.0,Not Completed,Last Minute
+Res-0360,Faculty,Classroom,2026-06-10,2026-07-03,10:00,13:00,3.0,49.0,Meeting,Approved,23.0,No,39.0,Used,0.0,Completed,Early Booking
+Res-0361,Organization,Laboratory,2026-07-30,2026-07-31,11:30,13:30,2.0,98.0,Meeting,Approved,1.0,No,75.0,Used,0.0,Completed,Last Minute
+Res-0362,Faculty,Conference Room,2026-04-02,2026-04-26,10:00,14:00,4.0,56.0,Training,Approved,24.0,No,55.0,Used,0.0,Completed,Early Booking
+Res-0363,Faculty,Classroom,2026-05-10,2026-05-15,08:30,11:30,3.0,88.0,Event,Approved,5.0,No,75.0,Used,0.0,Completed,Short Lead
+Res-0364,Student,Auditorium,2026-06-19,2026-06-22,18:00,19:00,1.0,93.0,Meeting,Approved,3.0,Yes,60.0,Used,0.0,Completed,Short Lead
+Res-0365,Organization,Multimedia Room,2026-02-22,2026-03-16,18:00,19:30,1.5,58.0,Class,Approved,22.0,Yes,41.0,Used,0.0,Completed,Early Booking
+Res-0366,Faculty,Multimedia Room,2026-05-11,2026-06-03,17:00,18:30,1.5,19.0,Meeting,Approved,23.0,Yes,16.0,Used,0.0,Completed,Early Booking
+Res-0367,Organization,Auditorium,2026-04-02,2026-04-24,14:30,15:30,1.0,10.0,Class,Approved,22.0,No,0.0,No-Show,0.0,Not Completed,Early Booking
+Res-0368,Staff,Conference Room,2026-01-01,2026-01-01,18:00,19:00,1.0,78.0,Class,Approved,0.0,Yes,49.0,Used,0.0,Completed,Last Minute
+Res-0369,Student,Classroom,2026-06-14,2026-06-21,15:30,17:00,1.5,64.0,Seminar,Approved,7.0,No,0.0,Cancelled,0.0,Not Completed,Short Lead
+Res-0370,Organization,Conference Room,2026-04-20,2026-05-13,08:00,12:00,4.0,10.0,Seminar,Approved,23.0,No,8.0,Used,0.0,Completed,Early Booking
+Res-0371,Organization,Conference Room,2026-09-02,2026-09-21,11:00,12:30,1.5,48.0,Training,Approved,19.0,No,47.0,Used,0.0,Completed,Early Booking
+Res-0372,Organization,Multimedia Room,2026-07-24,2026-08-06,18:00,19:00,1.0,21.0,Training,Approved,13.0,Yes,20.0,Used,0.0,Completed,Medium Lead
+Res-0373,Faculty,Classroom,2026-08-22,2026-09-09,15:30,16:30,1.0,83.0,Training,Approved,18.0,No,50.0,Used,0.0,Completed,Early Booking
+Res-0374,Faculty,Multimedia Room,2026-01-29,2026-02-26,14:30,15:30,1.0,13.0,Training,Approved,28.0,No,11.0,Used,0.0,Completed,Early Booking
+Res-0375,Faculty,Conference Room,2026-05-14,2026-06-05,17:00,19:00,2.0,89.0,Event,Approved,22.0,Yes,77.0,Used,0.0,Completed,Early Booking
+Res-0376,Staff,Laboratory,2026-08-17,2026-09-05,07:00,10:00,3.0,25.0,Event,Approved,19.0,No,19.0,Used,0.0,Completed,Early Booking
+Res-0377,Faculty,Classroom,2026-03-24,2026-03-31,13:30,14:30,1.0,69.0,Training,Approved,7.0,No,52.0,Used,0.0,Completed,Short Lead
+Res-0378,Faculty,Classroom,2026-04-24,2026-05-19,17:30,18:30,1.0,68.0,Training,Approved,25.0,Yes,54.0,Used,0.0,Completed,Early Booking
+Res-0379,Student,Classroom,2026-04-16,2026-04-17,16:00,20:00,4.0,16.0,Training,Approved,1.0,No,0.0,No-Show,0.0,Not Completed,Last Minute
+Res-0380,Organization,Auditorium,2026-02-22,2026-03-14,18:30,20:00,1.5,51.0,Event,Approved,20.0,Yes,0.0,Cancelled,14.0,Not Completed,Early Booking
+Res-0381,Organization,Auditorium,2026-06-03,2026-06-18,18:30,21:30,3.0,62.0,Event,Approved,15.0,Yes,0.0,Cancelled,7.0,Not Completed,Early Booking
+Res-0382,Student,Conference Room,2026-08-01,2026-08-21,11:30,14:30,3.0,18.0,Seminar,Approved,20.0,No,11.0,Used,0.0,Completed,Early Booking
+Res-0383,Staff,Classroom,2026-06-06,2026-06-12,10:00,14:00,4.0,55.0,Seminar,Approved,6.0,No,0.0,Cancelled,1.0,Not Completed,Short Lead
+Res-0384,Organization,Classroom,2026-01-12,2026-02-10,18:00,22:00,4.0,62.0,Training,Approved,29.0,Yes,49.0,Used,0.0,Completed,Early Booking
+Res-0385,Staff,Classroom,2026-07-08,2026-07-09,16:30,20:30,4.0,79.0,Event,Approved,1.0,No,76.0,Used,0.0,Completed,Last Minute
+Res-0386,Faculty,Auditorium,2026-07-07,2026-08-02,09:00,11:00,2.0,89.0,Class,Approved,26.0,No,0.0,Cancelled,16.0,Not Completed,Early Booking
+Res-0387,Staff,Multimedia Room,2026-08-23,2026-09-14,10:30,12:30,2.0,48.0,Event,Rejected,22.0,No,0.0,Cancelled,14.0,Not Completed,Early Booking
+Res-0388,Faculty,Laboratory,2026-06-04,2026-06-26,16:30,20:30,4.0,94.0,Training,Approved,22.0,No,84.0,Used,0.0,Completed,Early Booking
+Res-0389,Faculty,Laboratory,2026-06-09,2026-07-01,11:30,14:30,3.0,21.0,Class,Rejected,22.0,No,0.0,Cancelled,20.0,Not Completed,Early Booking
+Res-0390,Faculty,Auditorium,2026-06-27,2026-07-17,13:00,17:00,4.0,50.0,Event,Approved,20.0,No,48.0,Used,0.0,Completed,Early Booking
+Res-0391,Staff,Auditorium,2026-08-13,2026-09-09,14:00,16:00,2.0,18.0,Seminar,Approved,27.0,No,15.0,Used,0.0,Completed,Early Booking
+Res-0392,Faculty,Conference Room,2026-03-15,2026-04-05,11:00,15:00,4.0,12.0,Class,Approved,21.0,No,10.0,Used,0.0,Completed,Early Booking
+Res-0393,Student,Conference Room,2026-01-27,2026-02-15,18:00,21:00,3.0,87.0,Training,Approved,19.0,Yes,79.0,Used,0.0,Completed,Early Booking
+Res-0394,Organization,Classroom,2026-04-10,2026-04-23,18:30,20:30,2.0,11.0,Training,Approved,13.0,Yes,9.0,Used,0.0,Completed,Medium Lead
+Res-0395,Staff,Laboratory,2026-07-13,2026-07-31,16:00,20:00,4.0,97.0,Seminar,Rejected,18.0,No,0.0,Cancelled,9.0,Not Completed,Early Booking
+Res-0396,Staff,Laboratory,2026-02-17,2026-03-19,09:00,11:00,2.0,10.0,Meeting,Approved,30.0,No,6.0,Used,0.0,Completed,Early Booking
+Res-0397,Organization,Classroom,2026-04-30,2026-05-22,09:00,10:00,1.0,46.0,Seminar,Approved,22.0,No,0.0,Cancelled,20.0,Not Completed,Early Booking
+Res-0398,Organization,Multimedia Room,2026-05-21,2026-06-01,08:30,10:30,2.0,33.0,Event,Rejected,11.0,No,0.0,Cancelled,8.0,Not Completed,Medium Lead
+Res-0399,Student,Auditorium,2026-04-17,2026-05-04,16:30,17:30,1.0,49.0,Class,Approved,17.0,No,35.0,Used,0.0,Completed,Early Booking
+Res-0400,Organization,Conference Room,2026-09-01,2026-09-25,17:30,19:30,2.0,88.0,Class,Approved,24.0,Yes,68.0,Used,0.0,Completed,Early Booking
